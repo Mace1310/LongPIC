@@ -1,0 +1,1372 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABC	D:\SCUOLA\PIC32_START\source\global_var.c	292;"	m	line:292	file:
+ABC	D:\SCUOLA\PIC32_START\source\global_var.c	351;"	m	line:351	file:
+ABC_ON	D:\SCUOLA\PIC32_START\source\global_var.c	293;"	m	line:293	file:
+ACCELERAZIONE_ASSE_Z	D:\SCUOLA\PIC32_START\source\global_var.c	1119;"	v	line:1119
+ACCELERAZIONE_PINZE	D:\SCUOLA\PIC32_START\source\global_var.c	1116;"	v	line:1116
+ACK::0x81	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	13;"	d	line:13	file:
+ADC0	D:\SCUOLA\PIC32_START\source\global_var.c	734;"	m	line:734	file:
+ADC1	D:\SCUOLA\PIC32_START\source\global_var.c	735;"	m	line:735	file:
+AGGIORNA	D:\SCUOLA\PIC32_START\source\global_var.c	718;"	m	line:718	file:
+AGGIORNA_MODO_Y2	D:\SCUOLA\PIC32_START\source\global_var.c	857;"	v	line:857
+AI	D:\SCUOLA\PIC32_START\source\global_var.c	208;"	m	line:208	file:
+ALL_ENC	D:\SCUOLA\PIC32_START\source\global_var.c	284;"	m	line:284	file:
+ALL_ENC	D:\SCUOLA\PIC32_START\source\global_var.c	343;"	m	line:343	file:
+ATTIVA	D:\SCUOLA\PIC32_START\source\global_var.c	145;"	m	line:145	file:
+ATTIVA	D:\SCUOLA\PIC32_START\source\global_var.c	159;"	m	line:159	file:
+ATTIVATO	D:\SCUOLA\PIC32_START\source\global_var.c	1027;"	m	line:1027	file:
+ATTIVO	D:\SCUOLA\PIC32_START\source\global_var.c	1026;"	m	line:1026	file:
+ATTIVO	D:\SCUOLA\PIC32_START\source\global_var.c	51;"	v	line:51
+ATTIVO	D:\SCUOLA\PIC32_START\source\global_var.c	809;"	m	line:809	file:
+AVAN_IND	D:\SCUOLA\PIC32_START\source\global_var.c	213;"	m	line:213	file:
+Acc_Pinze	D:\SCUOLA\PIC32_START\source\global_var.c	1258;"	v	line:1258
+Acc_Z	D:\SCUOLA\PIC32_START\source\global_var.c	1255;"	v	line:1255
+Address	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	257;"	l	line:257	file:
+Aggiorna_Display	D:\SCUOLA\PIC32_START\source\global_var.c	105;"	v	line:105
+Aggiorna_Stato_EV	D:\SCUOLA\PIC32_START\source\global_var.c	27;"	v	line:27
+All	D:\SCUOLA\PIC32_START\source\global_var.c	733;"	m	line:733	file:
+All_SIO8	D:\SCUOLA\PIC32_START\source\global_var.c	1272;"	v	line:1272
+Allarmi	D:\SCUOLA\PIC32_START\source\global_var.c	1029;"	v	line:1029
+Allarmi_Attivi	D:\SCUOLA\PIC32_START\source\global_var.c	1031;"	v	line:1031
+Allarmi_Old	D:\SCUOLA\PIC32_START\source\global_var.c	1032;"	v	line:1032
+Analog_1	D:\SCUOLA\PIC32_START\source\global_var.c	57;"	v	line:57
+Analog_2	D:\SCUOLA\PIC32_START\source\global_var.c	58;"	v	line:58
+Anno	D:\SCUOLA\PIC32_START\source\global_var.c	616;"	v	line:616
+Anticipi_Rampe	D:\SCUOLA\PIC32_START\source\global_var.c	1122;"	v	line:1122
+Anticipo_1	D:\SCUOLA\PIC32_START\source\global_var.c	1242;"	v	line:1242
+Anticipo_2	D:\SCUOLA\PIC32_START\source\global_var.c	1243;"	v	line:1243
+Attesa	D:\SCUOLA\PIC32_START\source\global_var.c	633;"	v	line:633
+BAUDRATE_1::50000	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	9;"	d	line:9	file:
+BIT_START	D:\SCUOLA\PIC32_START\source\EEPROM.C	15;"	f	line:15	signature:(void)
+BIT_STOP	D:\SCUOLA\PIC32_START\source\EEPROM.C	31;"	f	line:31	signature:(void)
+BRGVAL_1::((PBCLK_1/BAUDRATE_1)/16)-1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	11;"	d	line:11	file:
+BSec	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1024;"	l	line:1024
+BSec	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1395;"	l	line:1395
+BSec	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	880;"	l	line:880
+Beep	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	46;"	f	line:46	signature:(unsigned short int n)
+Beep_1	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	52;"	f	line:52	signature:(unsigned short int n)
+BoardInit	D:\SCUOLA\PIC32_START\source\main.c	50;"	f	line:50	signature:(void)
+Buffer_C1fase	D:\SCUOLA\PIC32_START\source\global_var.c	843;"	v	line:843
+BytesPerSec	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1025;"	l	line:1025
+C1	D:\SCUOLA\PIC32_START\source\global_var.c	1330;"	v	line:1330
+C3	D:\SCUOLA\PIC32_START\source\global_var.c	1295;"	v	line:1295
+C4	D:\SCUOLA\PIC32_START\source\global_var.c	1310;"	v	line:1310
+CALCOLA_LUNGHEZZA	D:\SCUOLA\PIC32_START\source\global_var.c	209;"	m	line:209	file:
+CB	D:\SCUOLA\PIC32_START\source\global_var.c	1205;"	v	line:1205
+CE_EOF::61	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	183;"	d	line:183	file:
+CE_FAT_EOF::60	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	182;"	d	line:182	file:
+CICLO_TEST	D:\SCUOLA\PIC32_START\source\global_var.c	1055;"	v	line:1055
+CL	D:\SCUOLA\PIC32_START\source\global_var.c	44;"	v	line:44
+CNT_Int	D:\SCUOLA\PIC32_START\source\global_var.c	1056;"	v	line:1056
+COD	D:\SCUOLA\PIC32_START\source\global_var.c	98;"	v	line:98
+CODICE_MACC	D:\SCUOLA\PIC32_START\source\global_var.c	652;"	m	line:652	file:
+COL	D:\SCUOLA\PIC32_START\source\global_var.c	117;"	m	line:117	file:
+CONTA_IMP	D:\SCUOLA\PIC32_START\source\global_var.c	32;"	v	line:32
+CONTRASTO	D:\SCUOLA\PIC32_START\source\global_var.c	285;"	m	line:285	file:
+CONTRASTO	D:\SCUOLA\PIC32_START\source\global_var.c	344;"	m	line:344	file:
+CP_wait	D:\SCUOLA\PIC32_START\source\global_var.c	627;"	v	line:627
+CR	D:\SCUOLA\PIC32_START\source\global_var.c	1173;"	v	line:1173
+CSDResponse	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	858;"	l	line:858
+CTRL_FTC1	D:\SCUOLA\PIC32_START\source\global_var.c	1152;"	m	line:1152	file:
+CTRL_FTC1	D:\SCUOLA\PIC32_START\source\global_var.c	1184;"	m	line:1184	file:
+CTRL_FTC1_SPORCA	D:\SCUOLA\PIC32_START\source\global_var.c	1154;"	m	line:1154	file:
+CTRL_FTC1_SPORCA	D:\SCUOLA\PIC32_START\source\global_var.c	1186;"	m	line:1186	file:
+CTRL_FTC2	D:\SCUOLA\PIC32_START\source\global_var.c	1153;"	m	line:1153	file:
+CTRL_FTC2	D:\SCUOLA\PIC32_START\source\global_var.c	1185;"	m	line:1185	file:
+CTRL_FTC2_SPORCA	D:\SCUOLA\PIC32_START\source\global_var.c	1155;"	m	line:1155	file:
+CTRL_FTC2_SPORCA	D:\SCUOLA\PIC32_START\source\global_var.c	1187;"	m	line:1187	file:
+CacheTime	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	228;"	p	line:228	file:	signature:(void)
+CacheTime	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2696;"	f	line:2696	signature:(void)
+Cache_File_Entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2209;"	f	line:2209	signature:( FILEOBJ fo, WORD * curEntry, BYTE ForceRead)
+Cache_File_Entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	221;"	p	line:221	file:	signature:( FILEOBJ fo, WORD * curEntry, BYTE ForceRead)
+Carrello	D:\SCUOLA\PIC32_START\source\global_var.c	240;"	v	line:240
+Check	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	258;"	l	line:258
+CheckSum	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	228;"	l	line:228	file:
+Cicli_Ora	D:\SCUOLA\PIC32_START\source\global_var.c	1266;"	v	line:1266
+Clear_Timer_Tick	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	160;"	f	line:160	signature:(unsigned char t)
+CloseSPIM	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	106;"	p	line:106	file:	signature:( void )
+CloseSPIM	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	718;"	f	line:718	signature:(void)
+Cluster2Sector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	223;"	p	line:223	file:	signature:(DISK * disk, DWORD cluster)
+Cluster2Sector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4836;"	f	line:4836	signature:(DISK * dsk, DWORD cluster)
+ClusterFailValue	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2115;"	l	line:2115
+ClusterFailValue	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2974;"	l	line:2974
+ClusterFailValue	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5968;"	l	line:5968
+ClusterFailValue	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6139;"	l	line:6139
+ClusterFailValue	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	716;"	l	line:716
+CmdPacket	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	370;"	l	line:370
+Comando_CR11	D:\SCUOLA\PIC32_START\source\global_var.c	39;"	v	line:39
+ContaPixel	D:\SCUOLA\PIC32_START\source\global_var.c	139;"	v	line:139
+CreateDIR	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	265;"	p	line:265	file:	signature:(char * path)
+CreateDIR	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7684;"	f	line:7684	signature:(char * path)
+CreateFileEntry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2364;"	f	line:2364	signature:(FILEOBJ fo, WORD *fHandle, BYTE mode)
+CreateFileEntry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	258;"	p	line:258	file:	signature:(FILEOBJ fo, WORD *fHandle, BYTE mode)
+CreateFirstCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2423;"	f	line:2423	signature:(FILEOBJ fo)
+CreateFirstCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	256;"	p	line:256	file:	signature:(FILEOBJ fo)
+CyHdSc	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1264;"	l	line:1264
+DA_SALVARE	D:\SCUOLA\PIC32_START\source\global_var.c	52;"	v	line:52
+DEC_FATTO	D:\SCUOLA\PIC32_START\source\global_var.c	12;"	m	line:12	file:
+DELTA	D:\SCUOLA\PIC32_START\source\global_var.c	66;"	m	line:66	file:
+DELTA_IMP	D:\SCUOLA\PIC32_START\source\global_var.c	34;"	v	line:34
+DEPOSITO_PRONTO	D:\SCUOLA\PIC32_START\source\global_var.c	1309;"	m	line:1309	file:
+DIRECTORY::0x12	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	177;"	d	line:177	file:
+DIRENTRIES_PER_SECTOR::(MEDIA_SECTOR_SIZE/32)	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	179;"	d	line:179	file:
+DIRENTRY	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	175;"	t	line:175	file:
+DIR_Attr	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	162;"	m	line:162	file:
+DIR_CrtDate	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	166;"	m	line:166	file:
+DIR_CrtTime	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	165;"	m	line:165	file:
+DIR_CrtTimeTenth	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	164;"	m	line:164	file:
+DIR_Extension	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	161;"	m	line:161	file:
+DIR_FileSize	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	172;"	m	line:172	file:
+DIR_FstClusHI	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	168;"	m	line:168	file:
+DIR_FstClusLO	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	171;"	m	line:171	file:
+DIR_LstAccDate	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	167;"	m	line:167	file:
+DIR_NTRes	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	163;"	m	line:163	file:
+DIR_Name	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	160;"	m	line:160	file:
+DIR_WrtDate	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	170;"	m	line:170	file:
+DIR_WrtTime	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	169;"	m	line:169	file:
+DISKmount	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	293;"	p	line:293	file:	signature:( DISK *dsk)
+DISKmount	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	801;"	f	line:801	signature:( DISK *dsk)
+DW	D:\SCUOLA\PIC32_START\source\global_var.c	116;"	m	line:116	file:
+DataClusters	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1394;"	l	line:1394
+DataSec	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1022;"	l	line:1022
+Dato	D:\SCUOLA\PIC32_START\source\EEPROM.C	113;"	l	line:113
+DecodificaComando_com1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	312;"	f	line:312	signature:(void)
+Delay_ee	D:\SCUOLA\PIC32_START\source\EEPROM.C	10;"	f	line:10	signature:(int n)
+Delayms	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	100;"	p	line:100	file:	signature:(BYTE milliseconds)
+Delayms	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	683;"	f	line:683	signature:(BYTE milliseconds)
+DepositiPerRiga	D:\SCUOLA\PIC32_START\source\global_var.c	835;"	v	line:835
+Dist_Deposito	D:\SCUOLA\PIC32_START\source\global_var.c	1336;"	v	line:1336
+Dist_Prelievo	D:\SCUOLA\PIC32_START\source\global_var.c	1335;"	v	line:1335
+Dist_Traversini	D:\SCUOLA\PIC32_START\source\global_var.c	1282;"	v	line:1282
+Durata_Bagnatura	D:\SCUOLA\PIC32_START\source\global_var.c	416;"	m	line:416	file:
+Durata_Prescarico	D:\SCUOLA\PIC32_START\source\global_var.c	268;"	m	line:268	file:
+Durata_Prescarico	D:\SCUOLA\PIC32_START\source\global_var.c	327;"	m	line:327	file:
+Durata_Sgocc	D:\SCUOLA\PIC32_START\source\global_var.c	417;"	m	line:417	file:
+EE_read	D:\SCUOLA\PIC32_START\source\EEPROM.C	111;"	f	line:111
+EE_write	D:\SCUOLA\PIC32_START\source\EEPROM.C	61;"	f	line:61	signature:(unsigned char d)
+ENTRATO	D:\SCUOLA\PIC32_START\source\global_var.c	14;"	m	line:14	file:
+ERRORE_COM	D:\SCUOLA\PIC32_START\source\global_var.c	719;"	m	line:719	file:
+EV	D:\SCUOLA\PIC32_START\source\global_var.c	661;"	m	line:661	file:
+EVdx	D:\SCUOLA\PIC32_START\source\global_var.c	247;"	m	line:247	file:
+EVdx	D:\SCUOLA\PIC32_START\source\global_var.c	306;"	m	line:306	file:
+EVsx	D:\SCUOLA\PIC32_START\source\global_var.c	246;"	m	line:246	file:
+EVsx	D:\SCUOLA\PIC32_START\source\global_var.c	305;"	m	line:305	file:
+EVsxdx	D:\SCUOLA\PIC32_START\source\global_var.c	146;"	m	line:146	file:
+EVsxdx	D:\SCUOLA\PIC32_START\source\global_var.c	160;"	m	line:160	file:
+EVsxdx	D:\SCUOLA\PIC32_START\source\global_var.c	178;"	m	line:178	file:
+EVsxdx	D:\SCUOLA\PIC32_START\source\global_var.c	189;"	m	line:189	file:
+EVsxdx	D:\SCUOLA\PIC32_START\source\global_var.c	282;"	m	line:282	file:
+EVsxdx	D:\SCUOLA\PIC32_START\source\global_var.c	341;"	m	line:341	file:
+Enable	D:\SCUOLA\PIC32_START\source\global_var.c	425;"	m	line:425	file:
+Enable	D:\SCUOLA\PIC32_START\source\global_var.c	436;"	m	line:436	file:
+Enable	D:\SCUOLA\PIC32_START\source\global_var.c	446;"	m	line:446	file:
+EndClusterLimit	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2974;"	l	line:2974
+EraseCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	255;"	p	line:255	file:	signature:(DISK *disk, DWORD cluster)
+EraseCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4681;"	f	line:4681	signature:(DISK *disk, DWORD cluster)
+Errore_EEPROM	D:\SCUOLA\PIC32_START\source\global_var.c	55;"	v	line:55
+Errore_Setup	D:\SCUOLA\PIC32_START\source\global_var.c	1091;"	v	line:1091
+Errori	D:\SCUOLA\PIC32_START\source\global_var.c	724;"	m	line:724	file:
+Exit	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2116;"	e	line:2116	enum:_status	file:
+F	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5806;"	l	line:5806
+F	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5843;"	l	line:5843
+F	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5882;"	l	line:5882
+F	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5923;"	l	line:5923
+FARE_RESET_CICLO	D:\SCUOLA\PIC32_START\source\global_var.c	1057;"	v	line:1057
+FATTO_IL_PRIMO	D:\SCUOLA\PIC32_START\source\global_var.c	1149;"	m	line:1149	file:
+FATTO_IL_PRIMO	D:\SCUOLA\PIC32_START\source\global_var.c	1181;"	m	line:1181	file:
+FAT_erase_cluster_chain	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2113;"	f	line:2113	signature:(DWORD cluster, DISK * dsk)
+FAT_erase_cluster_chain	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	250;"	p	line:250	file:	signature:(DWORD cluster, DISK * dsk)
+FATfindEmptyCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	251;"	p	line:251	file:	signature:(FILEOBJ fo)
+FATfindEmptyCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2970;"	f	line:2970	signature:(FILEOBJ fo)
+FC	D:\SCUOLA\PIC32_START\source\global_var.c	1315;"	m	line:1315	file:
+FILECreateHeadCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	254;"	p	line:254	file:	signature:( FILEOBJ fo, DWORD *cluster)
+FILECreateHeadCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4605;"	f	line:4605	signature:( FILEOBJ fo, DWORD *cluster)
+FILEOBJ	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	185;"	t	line:185	file:
+FILEallocate_new_cluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	249;"	p	line:249	file:	signature:( FILEOBJ fo, BYTE mode)
+FILEallocate_new_cluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2902;"	f	line:2902	signature:( FILEOBJ fo, BYTE mode)
+FILEerase	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	248;"	p	line:248	file:	signature:( FILEOBJ fo, WORD *fHandle, BYTE EraseClusters)
+FILEerase	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3684;"	f	line:3684	signature:( FILEOBJ fo, WORD *fHandle, BYTE EraseClusters)
+FILEfind	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	240;"	p	line:240	file:	signature:( FILEOBJ foDest, FILEOBJ foCompareTo, BYTE cmd, BYTE mode)
+FILEfind	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	408;"	f	line:408	signature:( FILEOBJ foDest, FILEOBJ foCompareTo, BYTE cmd, BYTE mode)
+FILEget_next_cluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	241;"	p	line:241	file:	signature:(FILEOBJ fo, DWORD n)
+FILEget_next_cluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	714;"	f	line:714	signature:(FILEOBJ fo, DWORD n)
+FILEopen	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	242;"	p	line:242	file:	signature:(FILEOBJ fo, WORD *fHandle, char type)
+FILEopen	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	593;"	f	line:593	signature:(FILEOBJ fo, WORD *fHandle, char type)
+FINITO	D:\SCUOLA\PIC32_START\source\global_var.c	232;"	m	line:232	file:
+FORI_DISPARI	D:\SCUOLA\PIC32_START\source\global_var.c	1156;"	m	line:1156	file:
+FORI_DISPARI	D:\SCUOLA\PIC32_START\source\global_var.c	1188;"	m	line:1188	file:
+FRH	D:\SCUOLA\PIC32_START\source\global_var.c	730;"	m	line:730	file:
+FRL	D:\SCUOLA\PIC32_START\source\global_var.c	731;"	m	line:731	file:
+FSCreateMBR	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1261;"	f	line:1261	signature:(unsigned long firstSector, unsigned long numSectors)
+FSGetDiskProperties	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3139;"	f	line:3139	signature:(FS_DISK_PROPERTIES* properties)
+FSInit	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	323;"	f	line:323	signature:(void)
+FSattrib	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4896;"	f	line:4896	signature:(FSFILE * file, unsigned char attributes)
+FSchdir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6338;"	f	line:6338	signature:(char * path)
+FSchdirpgm	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6366;"	f	line:6366	signature:(const rom char * path)
+FSerrno	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	120;"	v	line:120
+FSerror	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4534;"	f	line:4534	signature:(void)
+FSfclose	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3264;"	f	line:3264	signature:(FSFILE *fo)
+FSfeof	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5229;"	f	line:5229	signature:( FSFILE * stream )
+FSfopen	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3947;"	f	line:3947	signature:( const char * fileName, const char *mode )
+FSfopenpgm	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5841;"	f	line:5841	signature:(const rom char * fileName, const rom char *mode)
+FSformat	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1391;"	f	line:1391	signature:(char mode, long int serialNumber, char * volumeID)
+FSfprintf	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8746;"	f	line:8746	signature:(FSFILE *fptr, const rom char *fmt, ...)
+FSfread	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5266;"	f	line:5266	signature:(void *ptr, size_t size, size_t n, FSFILE *stream)
+FSfseek	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5638;"	f	line:5638	signature:(FSFILE *stream, long offset, int whence)
+FSftell	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4217;"	f	line:4217	signature:(FSFILE * fo)
+FSfwrite	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4982;"	f	line:4982	signature:(const void *ptr, size_t size, size_t n, FSFILE *stream)
+FSgetcwd	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6827;"	f	line:6827	signature:(char * path, int numchars)
+FSmkdir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7198;"	f	line:7198	signature:(char * path)
+FSmkdirpgm	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7226;"	f	line:7226	signature:(const rom char * path)
+FSputc	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	289;"	p	line:289	file:	signature:(char c, FSFILE * file)
+FSputc	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8674;"	f	line:8674	signature:(char c, FSFILE * file)
+FSremove	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4248;"	f	line:4248	signature:(const char * fileName)
+FSremovepgm	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5880;"	f	line:5880	signature:(const rom char * fileName)
+FSrename	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3787;"	f	line:3787	signature:(const char * fileName, FSFILE * fo)
+FSrenamepgm	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5804;"	f	line:5804	signature:(const rom char * fileName, FSFILE * fo)
+FSrewind	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4334;"	f	line:4334	signature:(FSFILE * fo)
+FSrmdir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7900;"	f	line:7900	signature:(char * path, unsigned char rmsubdirs)
+FSrmdirpgm	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7930;"	f	line:7930	signature:(const rom char * path, unsigned char rmsubdirs)
+FSvfprintf	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	285;"	p	line:285	file:	signature:(auto FSFILE *handle, auto const rom char *formatString, auto va_list ap)
+FSvfprintf	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	287;"	p	line:287	file:	signature:(FSFILE *handle, const char *formatString, va_list ap)
+FSvfprintf	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8788;"	f	line:8788	signature:(auto FSFILE *handle, auto const rom char * formatString, auto va_list ap)
+FTC_1	D:\SCUOLA\PIC32_START\source\global_var.c	673;"	v	line:673
+FTC_2	D:\SCUOLA\PIC32_START\source\global_var.c	679;"	v	line:679
+FTC_3	D:\SCUOLA\PIC32_START\source\global_var.c	684;"	v	line:684
+Fail	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2116;"	e	line:2116	enum:_status	file:
+FatRootDirClusterValue	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	118;"	v	line:118
+Fatto	D:\SCUOLA\PIC32_START\source\global_var.c	426;"	m	line:426	file:
+Fatto	D:\SCUOLA\PIC32_START\source\global_var.c	437;"	m	line:437	file:
+Fatto	D:\SCUOLA\PIC32_START\source\global_var.c	447;"	m	line:447	file:
+FileObjectCopy	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	237;"	p	line:237	file:	signature:(FILEOBJ foDest,FILEOBJ foSource)
+FileObjectCopy	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4561;"	f	line:4561	signature:(FILEOBJ foDest,FILEOBJ foSource)
+Fill_File_Object	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	222;"	p	line:222	file:	signature:(FILEOBJ fo, WORD *fHandle)
+Fill_File_Object	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3479;"	f	line:3479	signature:(FILEOBJ fo, WORD *fHandle)
+FindEmptyEntries	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2488;"	f	line:2488	signature:(FILEOBJ fo, WORD *fHandle)
+FindEmptyEntries	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	252;"	p	line:252	file:	signature:(FILEOBJ fo, WORD *fHandle)
+FindFirst	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8416;"	f	line:8416	signature:(const char * fileName, unsigned int attr, SearchRec * rec)
+FindFirstpgm	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5921;"	f	line:5921	signature:(const rom char * fileName, unsigned int attr, SearchRec * rec)
+FindNext	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8547;"	f	line:8547	signature:(SearchRec * rec)
+Fine_Ultima_Zona	D:\SCUOLA\PIC32_START\source\global_var.c	6;"	v	line:6
+FontH	D:\SCUOLA\PIC32_START\source\global_var.c	120;"	m	line:120	file:
+FontW	D:\SCUOLA\PIC32_START\source\global_var.c	121;"	m	line:121	file:
+FormatDirName	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	264;"	p	line:264	file:	signature:(char * string, BYTE mode)
+FormatDirName	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5488;"	f	line:5488	signature:(char * string, BYTE mode)
+FormatFileName	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	239;"	p	line:239	file:	signature:( const char* fileName, char* fN2, BYTE mode)
+FormatFileName	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5400;"	f	line:5400	signature:( const char* fileName, char* fN2, BYTE mode)
+Foro	D:\SCUOLA\PIC32_START\source\global_var.c	1160;"	m	line:1160	file:
+Foro	D:\SCUOLA\PIC32_START\source\global_var.c	1192;"	m	line:1192	file:
+GEN_ACK	D:\SCUOLA\PIC32_START\source\EEPROM.C	49;"	f	line:49	signature:(void)
+GEST_ZONE	D:\SCUOLA\PIC32_START\source\global_var.c	277;"	m	line:277	file:
+GEST_ZONE	D:\SCUOLA\PIC32_START\source\global_var.c	336;"	m	line:336	file:
+GIORNI_ON	D:\SCUOLA\PIC32_START\source\global_var.c	291;"	m	line:291	file:
+GIORNI_ON	D:\SCUOLA\PIC32_START\source\global_var.c	350;"	m	line:350	file:
+GRAFICA_ON	D:\SCUOLA\PIC32_START\source\global_var.c	289;"	m	line:289	file:
+GRAFICA_ON	D:\SCUOLA\PIC32_START\source\global_var.c	348;"	m	line:348	file:
+G_POS_R	D:\SCUOLA\PIC32_START\source\global_var.c	248;"	m	line:248	file:
+G_POS_R	D:\SCUOLA\PIC32_START\source\global_var.c	307;"	m	line:307	file:
+GetFullClusterNumber	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1205;"	f	line:1205	signature:(DIRENTRY entry)
+GetFullClusterNumber	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	296;"	p	line:296	file:	signature:(DIRENTRY entry)
+GetPreviousEntry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	263;"	p	line:263	file:	signature:(FSFILE * fo)
+GetPreviousEntry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7083;"	f	line:7083	signature:(FSFILE * fo)
+Giorno	D:\SCUOLA\PIC32_START\source\global_var.c	613;"	v	line:613
+Giorno_S	D:\SCUOLA\PIC32_START\source\global_var.c	614;"	v	line:614
+Good	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2116;"	e	line:2116	enum:_status	file:
+HardwareError	D:\SCUOLA\PIC32_START\source\global_var.c	1037;"	v	line:1037
+I2C_BUS_BUSY	D:\SCUOLA\PIC32_START\source\global_var.c	623;"	v	line:623
+IMPIANTO	D:\SCUOLA\PIC32_START\source\global_var.c	720;"	m	line:720	file:
+IMPILA	D:\SCUOLA\PIC32_START\source\global_var.c	667;"	v	line:667
+IMP_RAMPA	D:\SCUOLA\PIC32_START\source\global_var.c	33;"	v	line:33
+IND_P	D:\SCUOLA\PIC32_START\source\global_var.c	1101;"	v	line:1101
+I_NOM	D:\SCUOLA\PIC32_START\source\global_var.c	1048;"	v	line:1048
+Imp	D:\SCUOLA\PIC32_START\source\global_var.c	298;"	v	line:298
+Imp_default	D:\SCUOLA\PIC32_START\source\global_var.c	353;"	v	line:353
+Impulsi	D:\SCUOLA\PIC32_START\source\global_var.c	216;"	m	line:216	file:
+Impulsi_Massimi	D:\SCUOLA\PIC32_START\source\global_var.c	219;"	m	line:219	file:
+IncrementTimeStamp	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	226;"	p	line:226	file:	signature:(DIRENTRY dir)
+IncrementTimeStamp	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3376;"	f	line:3376	signature:(DIRENTRY dir)
+Index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1400;"	l	line:1400
+Index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4566;"	l	line:4566
+Index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7988;"	l	line:7988
+Index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8329;"	l	line:8329
+Index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8423;"	l	line:8423
+Index2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7988;"	l	line:7988
+Ing	D:\SCUOLA\PIC32_START\source\global_var.c	581;"	v	line:581
+Ing_FRH	D:\SCUOLA\PIC32_START\source\global_var.c	583;"	v	line:583
+Ing_FRL	D:\SCUOLA\PIC32_START\source\global_var.c	584;"	v	line:584
+Ing_SIO8	D:\SCUOLA\PIC32_START\source\global_var.c	1268;"	v	line:1268
+Ing_SIO8_FRH	D:\SCUOLA\PIC32_START\source\global_var.c	1270;"	v	line:1270
+Ing_SIO8_FRL	D:\SCUOLA\PIC32_START\source\global_var.c	1271;"	v	line:1271
+Ing_SIO8_old	D:\SCUOLA\PIC32_START\source\global_var.c	1269;"	v	line:1269
+Ing_old	D:\SCUOLA\PIC32_START\source\global_var.c	582;"	v	line:582
+Ingressi	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	98;"	l	line:98
+Inizio_Prima_Zona	D:\SCUOLA\PIC32_START\source\global_var.c	5;"	v	line:5
+Int_Prescarico	D:\SCUOLA\PIC32_START\source\global_var.c	267;"	m	line:267	file:
+Int_Prescarico	D:\SCUOLA\PIC32_START\source\global_var.c	326;"	m	line:326	file:
+KD_P	D:\SCUOLA\PIC32_START\source\global_var.c	1043;"	v	line:1043
+KI_I	D:\SCUOLA\PIC32_START\source\global_var.c	1047;"	v	line:1047
+KI_W	D:\SCUOLA\PIC32_START\source\global_var.c	1045;"	v	line:1045
+KK_ASSE	D:\SCUOLA\PIC32_START\source\global_var.c	263;"	m	line:263	file:
+KK_ASSE	D:\SCUOLA\PIC32_START\source\global_var.c	322;"	m	line:322	file:
+KK_NASTRO	D:\SCUOLA\PIC32_START\source\global_var.c	1137;"	v	line:1137
+KP_I	D:\SCUOLA\PIC32_START\source\global_var.c	1046;"	v	line:1046
+KP_P	D:\SCUOLA\PIC32_START\source\global_var.c	1042;"	v	line:1042
+KP_W	D:\SCUOLA\PIC32_START\source\global_var.c	1044;"	v	line:1044
+Key_Cod	D:\SCUOLA\PIC32_START\source\global_var.c	468;"	v	line:468
+Key_Cod	D:\SCUOLA\PIC32_START\source\global_var.c	475;"	m	line:475	file:
+Key_Stato	D:\SCUOLA\PIC32_START\source\global_var.c	466;"	v	line:466
+Key_Stato	D:\SCUOLA\PIC32_START\source\global_var.c	476;"	m	line:476	file:
+LETTO	D:\SCUOLA\PIC32_START\source\global_var.c	1250;"	m	line:1250	file:
+LIBERI	D:\SCUOLA\PIC32_START\source\global_var.c	297;"	m	line:297	file:
+LIBERI	D:\SCUOLA\PIC32_START\source\global_var.c	352;"	m	line:352	file:
+LL	D:\SCUOLA\PIC32_START\source\global_var.c	132;"	v	line:132
+LSP	D:\SCUOLA\PIC32_START\source\global_var.c	1229;"	v	line:1229
+LastClusterLimit	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2214;"	l	line:2214
+LastClusterLimit	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5968;"	l	line:5968
+LastClustervalue	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	716;"	l	line:716
+Lingua	D:\SCUOLA\PIC32_START\source\global_var.c	278;"	m	line:278	file:
+Lingua	D:\SCUOLA\PIC32_START\source\global_var.c	337;"	m	line:337	file:
+LoadBootSector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1019;"	f	line:1019	signature:(DISK *dsk)
+LoadBootSector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	295;"	p	line:295	file:	signature:(DISK *dsk)
+LoadDirAttrib	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	224;"	p	line:224	file:	signature:(FILEOBJ fo, WORD *fHandle)
+LoadDirAttrib	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3611;"	f	line:3611	signature:(FILEOBJ fo, WORD *fHandle)
+LoadMBR	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	294;"	p	line:294	file:	signature:(DISK *dsk)
+LoadMBR	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	875;"	f	line:875	signature:(DISK *dsk)
+Lunghezza_Serra	D:\SCUOLA\PIC32_START\source\global_var.c	257;"	m	line:257	file:
+Lunghezza_Serra	D:\SCUOLA\PIC32_START\source\global_var.c	316;"	m	line:316	file:
+M	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5844;"	l	line:5844
+MANUALE_QUOTE	D:\SCUOLA\PIC32_START\source\global_var.c	1110;"	v	line:1110
+MDD_SDSPI_InitIO	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	293;"	f	line:293	signature:(void)
+MDD_SDSPI_MediaDetect	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	185;"	f	line:185	signature:(void)
+MDD_SDSPI_MediaInitialize	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	102;"	p	line:102	file:	signature:(void)
+MDD_SDSPI_MediaInitialize	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	854;"	f	line:854	signature:(void)
+MDD_SDSPI_ReadCapacity	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	266;"	f	line:266	signature:(void)
+MDD_SDSPI_ReadMedia	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	101;"	p	line:101	file:	signature:(void)
+MDD_SDSPI_ReadMedia	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	777;"	f	line:777	signature:(void)
+MDD_SDSPI_ReadSectorSize	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	240;"	f	line:240	signature:(void)
+MDD_SDSPI_SectorRead	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	466;"	f	line:466	signature:(DWORD sector_addr, BYTE* buffer)
+MDD_SDSPI_SectorWrite	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	572;"	f	line:572	signature:(DWORD sector_addr, BYTE* buffer, BYTE allowWriteToZero)
+MDD_SDSPI_ShutdownMedia	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	325;"	f	line:325	signature:(void)
+MDD_SDSPI_WriteProtectState	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	655;"	f	line:655	signature:(void)
+MDD_SDSPI_finalLBA	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	65;"	v	line:65
+MY_ADDRESS::1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	24;"	d	line:24	file:
+MY_BRG	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	58;"	v	line:58	file:
+M_Stato	D:\SCUOLA\PIC32_START\source\global_var.c	1209;"	v	line:1209
+MailBox	D:\SCUOLA\PIC32_START\source\global_var.c	812;"	v	line:812
+Media_Prod	D:\SCUOLA\PIC32_START\source\global_var.c	1265;"	v	line:1265
+Mese	D:\SCUOLA\PIC32_START\source\global_var.c	615;"	v	line:615
+Minuti	D:\SCUOLA\PIC32_START\source\global_var.c	430;"	m	line:430	file:
+Minuti	D:\SCUOLA\PIC32_START\source\global_var.c	441;"	m	line:441	file:
+Minuti	D:\SCUOLA\PIC32_START\source\global_var.c	451;"	m	line:451	file:
+Minuti	D:\SCUOLA\PIC32_START\source\global_var.c	618;"	v	line:618
+MisuraTempo	D:\SCUOLA\PIC32_START\source\global_var.c	1263;"	v	line:1263
+ModeC	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3953;"	l	line:3953
+Modo_Funz	D:\SCUOLA\PIC32_START\source\global_var.c	251;"	m	line:251	file:
+Modo_Funz	D:\SCUOLA\PIC32_START\source\global_var.c	310;"	m	line:310	file:
+Motore	D:\SCUOLA\PIC32_START\source\global_var.c	221;"	v	line:221
+NC_RIGA	D:\SCUOLA\PIC32_START\source\global_var.c	1291;"	m	line:1291	file:
+NC_RIGA	D:\SCUOLA\PIC32_START\source\global_var.c	1306;"	m	line:1306	file:
+NL	D:\SCUOLA\PIC32_START\source\global_var.c	133;"	v	line:133
+NOMI_ALLARMI	D:\SCUOLA\PIC32_START\source\global_var.c	988;"	v	line:988
+NOMI_ERRORI	D:\SCUOLA\PIC32_START\source\global_var.c	952;"	v	line:952
+NONE	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	28;"	m	line:28	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	1028;"	m	line:1028	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	118;"	m	line:118	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	1286;"	m	line:1286	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	1300;"	m	line:1300	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	1316;"	m	line:1316	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	148;"	m	line:148	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	162;"	m	line:162	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	179;"	m	line:179	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	190;"	m	line:190	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	250;"	m	line:250	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	309;"	m	line:309	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	427;"	m	line:427	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	438;"	m	line:438	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	448;"	m	line:448	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	603;"	m	line:603	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	654;"	m	line:654	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	662;"	m	line:662	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	722;"	m	line:722	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	753;"	m	line:753	file:
+NONE	D:\SCUOLA\PIC32_START\source\global_var.c	775;"	m	line:775	file:
+NONE1	D:\SCUOLA\PIC32_START\source\global_var.c	428;"	m	line:428	file:
+NONE1	D:\SCUOLA\PIC32_START\source\global_var.c	439;"	m	line:439	file:
+NONE1	D:\SCUOLA\PIC32_START\source\global_var.c	449;"	m	line:449	file:
+NP_MAX	D:\SCUOLA\PIC32_START\source\global_var.c	290;"	m	line:290	file:
+NP_MAX	D:\SCUOLA\PIC32_START\source\global_var.c	349;"	m	line:349	file:
+NTC_val	D:\SCUOLA\PIC32_START\source\global_var.c	107;"	v	line:107
+NU	D:\SCUOLA\PIC32_START\source\global_var.c	153;"	m	line:153	file:
+NU	D:\SCUOLA\PIC32_START\source\global_var.c	167;"	m	line:167	file:
+NUMERO_PINZE	D:\SCUOLA\PIC32_START\source\global_var.c	1219;"	m	line:1219	file:
+NUOVA_RIGA_DEP	D:\SCUOLA\PIC32_START\source\global_var.c	826;"	v	line:826
+NUOVA_RIGA_PRE	D:\SCUOLA\PIC32_START\source\global_var.c	825;"	v	line:825
+N_P	D:\SCUOLA\PIC32_START\source\global_var.c	1104;"	v	line:1104
+N_PU	D:\SCUOLA\PIC32_START\source\global_var.c	1106;"	v	line:1106
+N_Righe_Dep	D:\SCUOLA\PIC32_START\source\global_var.c	1092;"	v	line:1092
+N_err_ko	D:\SCUOLA\PIC32_START\source\global_var.c	948;"	v	line:948
+N_mess	D:\SCUOLA\PIC32_START\source\global_var.c	946;"	v	line:946
+N_rip	D:\SCUOLA\PIC32_START\source\global_var.c	947;"	v	line:947
+New_Key	D:\SCUOLA\PIC32_START\source\global_var.c	467;"	v	line:467
+New_Key	D:\SCUOLA\PIC32_START\source\global_var.c	474;"	m	line:474	file:
+Num_EV	D:\SCUOLA\PIC32_START\source\global_var.c	262;"	m	line:262	file:
+Num_EV	D:\SCUOLA\PIC32_START\source\global_var.c	321;"	m	line:321	file:
+Num_Fori	D:\SCUOLA\PIC32_START\source\global_var.c	1161;"	m	line:1161	file:
+Num_Fori	D:\SCUOLA\PIC32_START\source\global_var.c	1193;"	m	line:1193	file:
+NumeroDepositiX	D:\SCUOLA\PIC32_START\source\global_var.c	1304;"	m	line:1304	file:
+NumeroDepositiY	D:\SCUOLA\PIC32_START\source\global_var.c	1305;"	m	line:1305	file:
+NumeroPassateZone	D:\SCUOLA\PIC32_START\source\global_var.c	198;"	v	line:198
+NumeroPrelievi	D:\SCUOLA\PIC32_START\source\global_var.c	1289;"	m	line:1289	file:
+NumeroPrelievi	D:\SCUOLA\PIC32_START\source\global_var.c	1325;"	m	line:1325	file:
+NumeroPrelieviY	D:\SCUOLA\PIC32_START\source\global_var.c	1290;"	m	line:1290	file:
+Numero_F	D:\SCUOLA\PIC32_START\source\global_var.c	415;"	m	line:415	file:
+ON	D:\SCUOLA\PIC32_START\source\global_var.c	489;"	m	line:489	file:
+OffsetContenitore	D:\SCUOLA\PIC32_START\source\global_var.c	687;"	v	line:687
+Offset_MACC	D:\SCUOLA\PIC32_START\source\global_var.c	651;"	m	line:651	file:
+Offset_Macchina	D:\SCUOLA\PIC32_START\source\global_var.c	686;"	v	line:686
+Offset_ZERO	D:\SCUOLA\PIC32_START\source\global_var.c	275;"	m	line:275	file:
+Offset_ZERO	D:\SCUOLA\PIC32_START\source\global_var.c	334;"	m	line:334	file:
+OpenSPIM	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	105;"	p	line:105	file:	signature:( unsigned int sync_mode)
+OpenSPIM	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	806;"	f	line:806	signature:( unsigned int sync_mode)
+Ore	D:\SCUOLA\PIC32_START\source\global_var.c	429;"	m	line:429	file:
+Ore	D:\SCUOLA\PIC32_START\source\global_var.c	440;"	m	line:440	file:
+Ore	D:\SCUOLA\PIC32_START\source\global_var.c	450;"	m	line:450	file:
+Ore	D:\SCUOLA\PIC32_START\source\global_var.c	617;"	v	line:617
+PARK_QUOTE	D:\SCUOLA\PIC32_START\source\global_var.c	1109;"	v	line:1109
+PASSO_PASSO	D:\SCUOLA\PIC32_START\source\global_var.c	626;"	v	line:626
+PASSWORD_ATTIVA	D:\SCUOLA\PIC32_START\source\global_var.c	821;"	v	line:821
+PBCLK_1::20000000	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	10;"	d	line:10	file:
+PINZA	D:\SCUOLA\PIC32_START\source\global_var.c	1329;"	m	line:1329	file:
+POS_ZERO	D:\SCUOLA\PIC32_START\source\global_var.c	274;"	m	line:274	file:
+POS_ZERO	D:\SCUOLA\PIC32_START\source\global_var.c	333;"	m	line:333	file:
+PP	D:\SCUOLA\PIC32_START\source\global_var.c	1222;"	v	line:1222
+PRELIEVO_PRONTO	D:\SCUOLA\PIC32_START\source\global_var.c	1294;"	m	line:1294	file:
+PRELIEVO_PRONTO	D:\SCUOLA\PIC32_START\source\global_var.c	1328;"	m	line:1328	file:
+PRESENTE	D:\SCUOLA\PIC32_START\source\global_var.c	717;"	m	line:717	file:
+PRIMA_CASSA_DOPO_RESET	D:\SCUOLA\PIC32_START\source\global_var.c	822;"	v	line:822
+PRIMO_START	D:\SCUOLA\PIC32_START\source\global_var.c	856;"	v	line:856
+PRIORITA	D:\SCUOLA\PIC32_START\source\global_var.c	721;"	m	line:721	file:
+PU_MAX	D:\SCUOLA\PIC32_START\source\global_var.c	1108;"	v	line:1108
+PU_MIN	D:\SCUOLA\PIC32_START\source\global_var.c	1107;"	v	line:1107
+PWM_LCD	D:\SCUOLA\PIC32_START\source\global_var.c	286;"	m	line:286	file:
+PWM_LCD	D:\SCUOLA\PIC32_START\source\global_var.c	345;"	m	line:345	file:
+PWM_OFFSET	D:\SCUOLA\PIC32_START\source\global_var.c	287;"	m	line:287	file:
+PWM_OFFSET	D:\SCUOLA\PIC32_START\source\global_var.c	346;"	m	line:346	file:
+PWM_contrasto	D:\SCUOLA\PIC32_START\source\global_var.c	106;"	v	line:106
+Parametri_R	D:\SCUOLA\PIC32_START\source\global_var.c	1133;"	v	line:1133
+Parametri_W	D:\SCUOLA\PIC32_START\source\global_var.c	1132;"	v	line:1132
+Parametro	D:\SCUOLA\PIC32_START\source\global_var.c	135;"	v	line:135
+Parametro_CR11	D:\SCUOLA\PIC32_START\source\global_var.c	38;"	v	line:38
+Partition	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1263;"	l	line:1263
+Partition	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	877;"	l	line:877
+Passo	D:\SCUOLA\PIC32_START\source\global_var.c	414;"	m	line:414	file:
+PassoX_Prelievo	D:\SCUOLA\PIC32_START\source\global_var.c	1076;"	v	line:1076
+Periodo_D1	D:\SCUOLA\PIC32_START\source\global_var.c	832;"	v	line:832
+Periodo_D2	D:\SCUOLA\PIC32_START\source\global_var.c	833;"	v	line:833
+Periodo_P1	D:\SCUOLA\PIC32_START\source\global_var.c	829;"	v	line:829
+Periodo_P2	D:\SCUOLA\PIC32_START\source\global_var.c	830;"	v	line:830
+PopulateEntries	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	253;"	p	line:253	file:	signature:(FILEOBJ fo, char *name , WORD *fHandle, BYTE mode)
+PopulateEntries	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2607;"	f	line:2607	signature:(FILEOBJ fo, char *name , WORD *fHandle, BYTE mode)
+Pos_Inizio	D:\SCUOLA\PIC32_START\source\global_var.c	413;"	m	line:413	file:
+Pos_Prescarico	D:\SCUOLA\PIC32_START\source\global_var.c	266;"	m	line:266	file:
+Pos_Prescarico	D:\SCUOLA\PIC32_START\source\global_var.c	325;"	m	line:325	file:
+Pos_Riposo	D:\SCUOLA\PIC32_START\source\global_var.c	256;"	m	line:256	file:
+Pos_Riposo	D:\SCUOLA\PIC32_START\source\global_var.c	315;"	m	line:315	file:
+Posizione	D:\SCUOLA\PIC32_START\source\global_var.c	217;"	m	line:217	file:
+Posizione	D:\SCUOLA\PIC32_START\source\global_var.c	237;"	m	line:237	file:
+Posizione_Finale	D:\SCUOLA\PIC32_START\source\global_var.c	218;"	m	line:218	file:
+PrelieviPerRiga	D:\SCUOLA\PIC32_START\source\global_var.c	834;"	v	line:834
+Produzione	D:\SCUOLA\PIC32_START\source\global_var.c	1264;"	v	line:1264
+Prog	D:\SCUOLA\PIC32_START\source\global_var.c	418;"	v	line:418
+Quota_BERO	D:\SCUOLA\PIC32_START\source\global_var.c	1053;"	v	line:1053
+Quota_Z_Deposito	D:\SCUOLA\PIC32_START\source\global_var.c	1277;"	v	line:1277
+Quota_Z_Prelievo	D:\SCUOLA\PIC32_START\source\global_var.c	1276;"	v	line:1276
+Quota_Z_Svincolo	D:\SCUOLA\PIC32_START\source\global_var.c	1278;"	v	line:1278
+Quote_DDx	D:\SCUOLA\PIC32_START\source\global_var.c	1238;"	v	line:1238
+Quote_Deposito	D:\SCUOLA\PIC32_START\source\global_var.c	1236;"	v	line:1236
+Quote_PPx	D:\SCUOLA\PIC32_START\source\global_var.c	1237;"	v	line:1237
+Quote_Prelievo	D:\SCUOLA\PIC32_START\source\global_var.c	1235;"	v	line:1235
+Quote_Riposo	D:\SCUOLA\PIC32_START\source\global_var.c	1232;"	v	line:1232
+RAMPA_START	D:\SCUOLA\PIC32_START\source\global_var.c	281;"	m	line:281	file:
+RAMPA_START	D:\SCUOLA\PIC32_START\source\global_var.c	340;"	m	line:340	file:
+RAMPA_STOP	D:\SCUOLA\PIC32_START\source\global_var.c	280;"	m	line:280	file:
+RAMPA_STOP	D:\SCUOLA\PIC32_START\source\global_var.c	339;"	m	line:339	file:
+READ_DS	D:\SCUOLA\PIC32_START\source\EEPROM.C	207;"	f	line:207	signature:(unsigned int Ind, unsigned char N_Byte, unsigned char *Buff)
+READ_N	D:\SCUOLA\PIC32_START\source\EEPROM.C	139;"	f	line:139	signature:(int Ind, unsigned char N_Byte, unsigned char *Buff)
+REPORT	D:\SCUOLA\PIC32_START\source\global_var.c	808;"	m	line:808	file:
+RETROILLUMINAZIONE_ON	D:\SCUOLA\PIC32_START\source\global_var.c	30;"	v	line:30
+RIP_MIN	D:\SCUOLA\PIC32_START\source\global_var.c	296;"	m	line:296	file:
+RIP_ORE	D:\SCUOLA\PIC32_START\source\global_var.c	295;"	m	line:295	file:
+RULLIERA	D:\SCUOLA\PIC32_START\source\global_var.c	649;"	m	line:649	file:
+R_DAC	D:\SCUOLA\PIC32_START\source\global_var.c	68;"	v	line:68
+ReadByte	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	232;"	p	line:232	file:	signature:( BYTE* pBuffer, WORD index )
+ReadByte	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4735;"	f	line:4735	signature:( BYTE* pBuffer, WORD index )
+ReadDWord	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	234;"	p	line:234	file:	signature:( BYTE* pBuffer, WORD index )
+ReadDWord	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4795;"	f	line:4795	signature:( BYTE* pBuffer, WORD index )
+ReadFAT	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	220;"	p	line:220	file:	signature:(DISK *dsk, DWORD ccls)
+ReadFAT	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5964;"	f	line:5964	signature:(DISK *dsk, DWORD ccls)
+ReadWord	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	233;"	p	line:233	file:	signature:( BYTE* pBuffer, WORD index )
+ReadWord	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4761;"	f	line:4761	signature:( BYTE* pBuffer, WORD index )
+Registro_00	D:\SCUOLA\PIC32_START\source\global_var.c	621;"	v	line:621
+ReservedSectorCount	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1026;"	l	line:1026
+RifX	D:\SCUOLA\PIC32_START\source\global_var.c	122;"	m	line:122	file:
+RifY	D:\SCUOLA\PIC32_START\source\global_var.c	123;"	m	line:123	file:
+Risposta	D:\SCUOLA\PIC32_START\source\global_var.c	811;"	m	line:811	file:
+RootDirSectors	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1021;"	l	line:1021
+RootDirSectors	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1394;"	l	line:1394
+SALVARE_DATI	D:\SCUOLA\PIC32_START\source\global_var.c	819;"	v	line:819
+SCALA_RAMPA	D:\SCUOLA\PIC32_START\source\global_var.c	103;"	v	line:103
+SENSO	D:\SCUOLA\PIC32_START\source\global_var.c	231;"	m	line:231	file:
+SPICalutateBRG	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	133;"	f	line:133	signature:(unsigned int pb_clk, unsigned int spi_clk)
+START	D:\SCUOLA\PIC32_START\source\global_var.c	1145;"	m	line:1145	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	1177;"	m	line:1177	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	1214;"	m	line:1214	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	1226;"	m	line:1226	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	1284;"	m	line:1284	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	1298;"	m	line:1298	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	1313;"	m	line:1313	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	212;"	m	line:212	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	229;"	m	line:229	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	64;"	m	line:64	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	670;"	m	line:670	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	676;"	m	line:676	file:
+START	D:\SCUOLA\PIC32_START\source\global_var.c	681;"	m	line:681	file:
+START_10	D:\SCUOLA\PIC32_START\source\global_var.c	230;"	m	line:230	file:
+START_S1	D:\SCUOLA\PIC32_START\source\global_var.c	1146;"	m	line:1146	file:
+START_S1	D:\SCUOLA\PIC32_START\source\global_var.c	1178;"	m	line:1178	file:
+START_S2	D:\SCUOLA\PIC32_START\source\global_var.c	1147;"	m	line:1147	file:
+START_S2	D:\SCUOLA\PIC32_START\source\global_var.c	1179;"	m	line:1179	file:
+STATO	D:\SCUOLA\PIC32_START\source\global_var.c	1285;"	m	line:1285	file:
+STATO	D:\SCUOLA\PIC32_START\source\global_var.c	1299;"	m	line:1299	file:
+STATO	D:\SCUOLA\PIC32_START\source\global_var.c	1314;"	m	line:1314	file:
+STATO_EV_DX	D:\SCUOLA\PIC32_START\source\global_var.c	8;"	v	line:8
+STATO_EV_SX	D:\SCUOLA\PIC32_START\source\global_var.c	7;"	v	line:7
+STATO_PINZE	D:\SCUOLA\PIC32_START\source\global_var.c	1251;"	v	line:1251
+STAZIONI	D:\SCUOLA\PIC32_START\source\global_var.c	1171;"	m	line:1171	file:
+STAZIONI	D:\SCUOLA\PIC32_START\source\global_var.c	1203;"	m	line:1203	file:
+STOP	D:\SCUOLA\PIC32_START\source\global_var.c	206;"	m	line:206	file:
+STOP	D:\SCUOLA\PIC32_START\source\global_var.c	228;"	m	line:228	file:
+STRINGHE	D:\SCUOLA\PIC32_START\source\global_var.c	861;"	v	line:861
+SVUOTAMENTO	D:\SCUOLA\PIC32_START\source\global_var.c	1148;"	m	line:1148	file:
+SVUOTAMENTO	D:\SCUOLA\PIC32_START\source\global_var.c	1180;"	m	line:1180	file:
+SW_Timer	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	39;"	v	line:39	file:
+SW_Timer_Reload	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	41;"	v	line:41	file:
+SW_Timer_flag	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	42;"	v	line:42	file:
+SYS_FREQ::(80000000L)	D:\SCUOLA\PIC32_START\source\main.c	30;"	d	line:30	file:
+S_Righe	D:\SCUOLA\PIC32_START\source\global_var.c	119;"	m	line:119	file:
+Secondi	D:\SCUOLA\PIC32_START\source\global_var.c	619;"	v	line:619
+SectorAddress	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4684;"	l	line:4684
+Semi	D:\SCUOLA\PIC32_START\source\global_var.c	1159;"	m	line:1159	file:
+Semi	D:\SCUOLA\PIC32_START\source\global_var.c	1191;"	m	line:1191	file:
+Semi_Impronta	D:\SCUOLA\PIC32_START\source\global_var.c	1162;"	m	line:1162	file:
+Semi_Impronta	D:\SCUOLA\PIC32_START\source\global_var.c	1194;"	m	line:1194	file:
+SendMMCCmd	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	103;"	p	line:103	file:	signature:(BYTE cmd, DWORD address)
+SendMMCCmd	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	365;"	f	line:365	signature:(BYTE cmd, DWORD address)
+SequenzaQuote	D:\SCUOLA\PIC32_START\source\global_var.c	1234;"	v	line:1234
+SetClockVars	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2833;"	f	line:2833	signature:(unsigned int year, unsigned char month, unsigned char day, unsigned char hour, unsigned char minute, unsigned char second)
+SettimanaAttuale	D:\SCUOLA\PIC32_START\source\global_var.c	622;"	v	line:622
+Settimanale	D:\SCUOLA\PIC32_START\source\global_var.c	283;"	m	line:283	file:
+Settimanale	D:\SCUOLA\PIC32_START\source\global_var.c	342;"	m	line:342	file:
+Stato_DATARIO	D:\SCUOLA\PIC32_START\source\global_var.c	620;"	v	line:620
+Stato_MEDIA	D:\SCUOLA\PIC32_START\source\global_var.c	1059;"	v	line:1059
+StrSz	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5566;"	l	line:5566
+T1	D:\SCUOLA\PIC32_START\source\global_var.c	269;"	m	line:269	file:
+T1	D:\SCUOLA\PIC32_START\source\global_var.c	328;"	m	line:328	file:
+T1	D:\SCUOLA\PIC32_START\source\global_var.c	639;"	m	line:639	file:
+T10	D:\SCUOLA\PIC32_START\source\global_var.c	644;"	m	line:644	file:
+T11	D:\SCUOLA\PIC32_START\source\global_var.c	645;"	m	line:645	file:
+T1_Imp	D:\SCUOLA\PIC32_START\source\global_var.c	647;"	m	line:647	file:
+T1_RIP	D:\SCUOLA\PIC32_START\source\global_var.c	294;"	m	line:294	file:
+T2	D:\SCUOLA\PIC32_START\source\global_var.c	270;"	m	line:270	file:
+T2	D:\SCUOLA\PIC32_START\source\global_var.c	329;"	m	line:329	file:
+T2	D:\SCUOLA\PIC32_START\source\global_var.c	640;"	m	line:640	file:
+T20	D:\SCUOLA\PIC32_START\source\global_var.c	646;"	m	line:646	file:
+T2_Imp	D:\SCUOLA\PIC32_START\source\global_var.c	648;"	m	line:648	file:
+T3	D:\SCUOLA\PIC32_START\source\global_var.c	273;"	m	line:273	file:
+T3	D:\SCUOLA\PIC32_START\source\global_var.c	332;"	m	line:332	file:
+T3	D:\SCUOLA\PIC32_START\source\global_var.c	641;"	m	line:641	file:
+T4	D:\SCUOLA\PIC32_START\source\global_var.c	642;"	m	line:642	file:
+T5	D:\SCUOLA\PIC32_START\source\global_var.c	643;"	m	line:643	file:
+TAST_ABC	D:\SCUOLA\PIC32_START\source\global_var.c	464;"	v	line:464
+TAST_ATTIVA	D:\SCUOLA\PIC32_START\source\global_var.c	469;"	v	line:469
+TAST_ATTIVA	D:\SCUOLA\PIC32_START\source\global_var.c	477;"	m	line:477	file:
+TELECOMANDO	D:\SCUOLA\PIC32_START\source\global_var.c	288;"	m	line:288	file:
+TELECOMANDO	D:\SCUOLA\PIC32_START\source\global_var.c	347;"	m	line:347	file:
+TESTA1	D:\SCUOLA\PIC32_START\source\global_var.c	1150;"	m	line:1150	file:
+TESTA1	D:\SCUOLA\PIC32_START\source\global_var.c	1182;"	m	line:1182	file:
+TESTA2	D:\SCUOLA\PIC32_START\source\global_var.c	1151;"	m	line:1151	file:
+TESTA2	D:\SCUOLA\PIC32_START\source\global_var.c	1183;"	m	line:1183	file:
+TEST_FABIO	D:\SCUOLA\PIC32_START\source\global_var.c	29;"	v	line:29
+TICK_LAMPEGGIO	D:\SCUOLA\PIC32_START\source\global_var.c	60;"	v	line:60
+TICK_OROLOGIO	D:\SCUOLA\PIC32_START\source\global_var.c	136;"	v	line:136
+TIMEOUT	D:\SCUOLA\PIC32_START\source\global_var.c	810;"	m	line:810	file:
+TIMER	D:\SCUOLA\PIC32_START\source\global_var.c	431;"	v	line:431
+TIMER_1	D:\SCUOLA\PIC32_START\source\global_var.c	442;"	v	line:442
+TIMER_default	D:\SCUOLA\PIC32_START\source\global_var.c	452;"	v	line:452
+TIPO	D:\SCUOLA\PIC32_START\source\global_var.c	1025;"	m	line:1025	file:
+TIPO_AUTO	D:\SCUOLA\PIC32_START\source\global_var.c	249;"	m	line:249	file:
+TIPO_AUTO	D:\SCUOLA\PIC32_START\source\global_var.c	308;"	m	line:308	file:
+TIPO_INV	D:\SCUOLA\PIC32_START\source\global_var.c	276;"	m	line:276	file:
+TIPO_INV	D:\SCUOLA\PIC32_START\source\global_var.c	335;"	m	line:335	file:
+TOLL	D:\SCUOLA\PIC32_START\source\global_var.c	1049;"	v	line:1049
+TOLL_OK	D:\SCUOLA\PIC32_START\source\global_var.c	1215;"	m	line:1215	file:
+TempClusterCalc	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	122;"	v	line:122
+TempFullClusterCalc	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1208;"	l	line:1208
+TempMsbCluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2426;"	l	line:2426
+TempiM	D:\SCUOLA\PIC32_START\source\global_var.c	655;"	v	line:655
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	1164;"	m	line:1164	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	1196;"	m	line:1196	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	1292;"	m	line:1292	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	1307;"	m	line:1307	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	1326;"	m	line:1326	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	214;"	m	line:214	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	233;"	m	line:233	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	43;"	m	line:43	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	664;"	m	line:664	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	672;"	m	line:672	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	678;"	m	line:678	file:
+Tempo	D:\SCUOLA\PIC32_START\source\global_var.c	683;"	m	line:683	file:
+Tempo1	D:\SCUOLA\PIC32_START\source\global_var.c	1165;"	m	line:1165	file:
+Tempo1	D:\SCUOLA\PIC32_START\source\global_var.c	1197;"	m	line:1197	file:
+Tempo2	D:\SCUOLA\PIC32_START\source\global_var.c	1166;"	m	line:1166	file:
+Tempo2	D:\SCUOLA\PIC32_START\source\global_var.c	1198;"	m	line:1198	file:
+TempoFTC1	D:\SCUOLA\PIC32_START\source\global_var.c	1167;"	m	line:1167	file:
+TempoFTC1	D:\SCUOLA\PIC32_START\source\global_var.c	1199;"	m	line:1199	file:
+TempoFTC2	D:\SCUOLA\PIC32_START\source\global_var.c	1168;"	m	line:1168	file:
+TempoFTC2	D:\SCUOLA\PIC32_START\source\global_var.c	1200;"	m	line:1200	file:
+Tempo_ALLARME_ENCODER	D:\SCUOLA\PIC32_START\source\global_var.c	46;"	v	line:46
+Tempo_Attesa	D:\SCUOLA\PIC32_START\source\global_var.c	635;"	v	line:635
+Tempo_Beep	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	44;"	v	line:44
+Tempo_Buzz	D:\SCUOLA\PIC32_START\source\global_var.c	465;"	v	line:465
+Tempo_Cursore	D:\SCUOLA\PIC32_START\source\global_var.c	59;"	v	line:59
+Tempo_Imp	D:\SCUOLA\PIC32_START\source\global_var.c	1172;"	m	line:1172	file:
+Tempo_Imp	D:\SCUOLA\PIC32_START\source\global_var.c	1204;"	m	line:1204	file:
+Tempo_LED	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	36;"	v	line:36
+Tempo_Max_FTC1	D:\SCUOLA\PIC32_START\source\global_var.c	1169;"	m	line:1169	file:
+Tempo_Max_FTC1	D:\SCUOLA\PIC32_START\source\global_var.c	1201;"	m	line:1201	file:
+Tempo_Max_FTC2	D:\SCUOLA\PIC32_START\source\global_var.c	1170;"	m	line:1170	file:
+Tempo_Max_FTC2	D:\SCUOLA\PIC32_START\source\global_var.c	1202;"	m	line:1202	file:
+Tempo_OFF_RETRO	D:\SCUOLA\PIC32_START\source\global_var.c	463;"	v	line:463
+Tempo_Prescarico	D:\SCUOLA\PIC32_START\source\global_var.c	109;"	v	line:109
+Tempo_RESET_Display	D:\SCUOLA\PIC32_START\source\global_var.c	21;"	v	line:21
+Tempo_Ritardo	D:\SCUOLA\PIC32_START\source\global_var.c	632;"	v	line:632
+Tempo_Sirena	D:\SCUOLA\PIC32_START\source\global_var.c	1035;"	v	line:1035
+TestaL	D:\SCUOLA\PIC32_START\source\global_var.c	1158;"	m	line:1158	file:
+TestaL	D:\SCUOLA\PIC32_START\source\global_var.c	1190;"	m	line:1190	file:
+Text	D:\SCUOLA\PIC32_START\source\global_var.c	127;"	v	line:127
+TickCounter	D:\SCUOLA\PIC32_START\source\global_var.c	137;"	v	line:137
+TickCounter	D:\SCUOLA\PIC32_START\source\global_var.c	142;"	v	line:142
+TimeOut	D:\SCUOLA\PIC32_START\source\global_var.c	1039;"	v	line:1039
+Timer1Init	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	167;"	f	line:167	signature:(void)
+Timer1InterruptHandler	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	241;"	f	line:241	signature:(void)
+Timer2Init	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	191;"	f	line:191	signature:(void)
+Timer2InterruptHandler	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	271;"	f	line:271	signature:(void)
+Timer3Init	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	211;"	f	line:211	signature:(void)
+Timer3InterruptHandler	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	278;"	f	line:278	signature:(void)
+Timer4Init	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	222;"	f	line:222	signature:(void)
+Timer5Init	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	230;"	f	line:230	signature:(void)
+Timer5InterruptHandler	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	287;"	f	line:287	signature:(void)
+Timer_Tick	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	155;"	f	line:155	signature:(unsigned char t)
+TipoRisposta	D:\SCUOLA\PIC32_START\source\global_var.c	807;"	m	line:807	file:
+Tipo_EMERGENZA	D:\SCUOLA\PIC32_START\source\global_var.c	272;"	m	line:272	file:
+Tipo_EMERGENZA	D:\SCUOLA\PIC32_START\source\global_var.c	331;"	m	line:331	file:
+Toll	D:\SCUOLA\PIC32_START\source\global_var.c	1220;"	m	line:1220	file:
+TotSec	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1022;"	l	line:1022
+Touch	D:\SCUOLA\PIC32_START\source\global_var.c	490;"	v	line:490
+Trama_OK	D:\SCUOLA\PIC32_START\source\global_var.c	754;"	m	line:754	file:
+Trama_OK	D:\SCUOLA\PIC32_START\source\global_var.c	776;"	m	line:776	file:
+Troppo_Pieno	D:\SCUOLA\PIC32_START\source\global_var.c	1038;"	v	line:1038
+U00	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	16;"	m	line:16	file:
+U00	D:\SCUOLA\PIC32_START\source\global_var.c	591;"	m	line:591	file:
+U01	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	17;"	m	line:17	file:
+U01	D:\SCUOLA\PIC32_START\source\global_var.c	592;"	m	line:592	file:
+U02	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	18;"	m	line:18	file:
+U02	D:\SCUOLA\PIC32_START\source\global_var.c	593;"	m	line:593	file:
+U03	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	19;"	m	line:19	file:
+U03	D:\SCUOLA\PIC32_START\source\global_var.c	594;"	m	line:594	file:
+U04	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	20;"	m	line:20	file:
+U04	D:\SCUOLA\PIC32_START\source\global_var.c	595;"	m	line:595	file:
+U05	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	21;"	m	line:21	file:
+U05	D:\SCUOLA\PIC32_START\source\global_var.c	596;"	m	line:596	file:
+U06	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	22;"	m	line:22	file:
+U06	D:\SCUOLA\PIC32_START\source\global_var.c	597;"	m	line:597	file:
+U07	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	23;"	m	line:23	file:
+U07	D:\SCUOLA\PIC32_START\source\global_var.c	598;"	m	line:598	file:
+U08	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	24;"	m	line:24	file:
+U08	D:\SCUOLA\PIC32_START\source\global_var.c	599;"	m	line:599	file:
+U09	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	25;"	m	line:25	file:
+U09	D:\SCUOLA\PIC32_START\source\global_var.c	600;"	m	line:600	file:
+U10	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	26;"	m	line:26	file:
+U10	D:\SCUOLA\PIC32_START\source\global_var.c	601;"	m	line:601	file:
+U11	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	27;"	m	line:27	file:
+U11	D:\SCUOLA\PIC32_START\source\global_var.c	602;"	m	line:602	file:
+Uart1InterruptHandler	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	139;"	f	line:139	signature:(void)
+Uscite	D:\SCUOLA\PIC32_START\source\global_var.c	606;"	v	line:606
+VEL	D:\SCUOLA\PIC32_START\source\global_var.c	100;"	v	line:100
+VELOCITA_ASSE_Z	D:\SCUOLA\PIC32_START\source\global_var.c	1118;"	v	line:1118
+VELOCITA_NASTRO	D:\SCUOLA\PIC32_START\source\global_var.c	1121;"	v	line:1121
+VELOCITA_PINZE	D:\SCUOLA\PIC32_START\source\global_var.c	1115;"	v	line:1115
+VEL_MAX_2_Y2	D:\SCUOLA\PIC32_START\source\global_var.c	630;"	v	line:630
+VEL_MOTORE	D:\SCUOLA\PIC32_START\source\global_var.c	35;"	v	line:35
+VEL_TRASLAZIONE	D:\SCUOLA\PIC32_START\source\global_var.c	279;"	m	line:279	file:
+VEL_TRASLAZIONE	D:\SCUOLA\PIC32_START\source\global_var.c	338;"	m	line:338	file:
+ValidateChars	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	238;"	p	line:238	file:	signature:(char * FileName, BYTE mode)
+ValidateChars	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5564;"	f	line:5564	signature:( char * FileName , BYTE mode)
+VelZeroY2	D:\SCUOLA\PIC32_START\source\global_var.c	817;"	v	line:817
+Vel_NASTRO	D:\SCUOLA\PIC32_START\source\global_var.c	1126;"	v	line:1126
+Vel_Pinze	D:\SCUOLA\PIC32_START\source\global_var.c	1257;"	v	line:1257
+Vel_Z	D:\SCUOLA\PIC32_START\source\global_var.c	1254;"	v	line:1254
+Velocita_Ric	D:\SCUOLA\PIC32_START\source\global_var.c	653;"	m	line:653	file:
+Velocita_Zero	D:\SCUOLA\PIC32_START\source\global_var.c	271;"	m	line:271	file:
+Velocita_Zero	D:\SCUOLA\PIC32_START\source\global_var.c	330;"	m	line:330	file:
+WIRELESS_MSG	D:\SCUOLA\PIC32_START\source\global_var.c	23;"	v	line:23
+WRITE_DAC	D:\SCUOLA\PIC32_START\source\pwm.c	47;"	f	line:47	signature:(unsigned int Val)
+WRITE_DS	D:\SCUOLA\PIC32_START\source\EEPROM.C	188;"	f	line:188	signature:(unsigned int Ind, unsigned char N_Byte, unsigned char *Buff)
+WRITE_N	D:\SCUOLA\PIC32_START\source\EEPROM.C	166;"	f	line:166	signature:(int Ind, unsigned char N_Byte, unsigned char *Buff)
+WriteFAT	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	257;"	p	line:257	file:	signature:(DISK *dsk, DWORD ccls, DWORD value, BYTE forceWrite)
+WriteFAT	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6136;"	f	line:6136	signature:(DISK *dsk, DWORD ccls, DWORD value, BYTE forceWrite)
+WriteSPIM	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	107;"	p	line:107	file:	signature:( unsigned char data_out )
+WriteSPIM	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	747;"	f	line:747	signature:( unsigned char data_out )
+Write_File_Entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2042;"	f	line:2042	signature:( FILEOBJ fo, WORD * curEntry)
+Write_File_Entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	246;"	p	line:246	file:	signature:( FILEOBJ fo, WORD * curEntry)
+X	D:\SCUOLA\PIC32_START\source\global_var.c	485;"	m	line:485	file:
+X1_Deposito	D:\SCUOLA\PIC32_START\source\global_var.c	1334;"	v	line:1334
+X1_Prelievo	D:\SCUOLA\PIC32_START\source\global_var.c	1333;"	v	line:1333
+XFiltrato	D:\SCUOLA\PIC32_START\source\global_var.c	483;"	m	line:483	file:
+Xf	D:\SCUOLA\PIC32_START\source\global_var.c	495;"	m	line:495	file:
+Xf	D:\SCUOLA\PIC32_START\source\global_var.c	522;"	m	line:522	file:
+Xfiltro	D:\SCUOLA\PIC32_START\source\global_var.c	481;"	m	line:481	file:
+Xi	D:\SCUOLA\PIC32_START\source\global_var.c	494;"	m	line:494	file:
+Xi	D:\SCUOLA\PIC32_START\source\global_var.c	521;"	m	line:521	file:
+Xval	D:\SCUOLA\PIC32_START\source\global_var.c	479;"	m	line:479	file:
+Y	D:\SCUOLA\PIC32_START\source\global_var.c	486;"	m	line:486	file:
+YFiltrato	D:\SCUOLA\PIC32_START\source\global_var.c	484;"	m	line:484	file:
+Yf	D:\SCUOLA\PIC32_START\source\global_var.c	497;"	m	line:497	file:
+Yf	D:\SCUOLA\PIC32_START\source\global_var.c	524;"	m	line:524	file:
+Yfiltro	D:\SCUOLA\PIC32_START\source\global_var.c	482;"	m	line:482	file:
+Yi	D:\SCUOLA\PIC32_START\source\global_var.c	496;"	m	line:496	file:
+Yi	D:\SCUOLA\PIC32_START\source\global_var.c	523;"	m	line:523	file:
+Yval	D:\SCUOLA\PIC32_START\source\global_var.c	480;"	m	line:480	file:
+ZERO	D:\SCUOLA\PIC32_START\source\global_var.c	207;"	m	line:207	file:
+ZERO_OK	D:\SCUOLA\PIC32_START\source\global_var.c	245;"	m	line:245	file:
+ZERO_OK	D:\SCUOLA\PIC32_START\source\global_var.c	304;"	m	line:304	file:
+Zona_1_Fine	D:\SCUOLA\PIC32_START\source\global_var.c	259;"	m	line:259	file:
+Zona_1_Fine	D:\SCUOLA\PIC32_START\source\global_var.c	318;"	m	line:318	file:
+Zona_1_Inizio	D:\SCUOLA\PIC32_START\source\global_var.c	258;"	m	line:258	file:
+Zona_1_Inizio	D:\SCUOLA\PIC32_START\source\global_var.c	317;"	m	line:317	file:
+Zona_2_Fine	D:\SCUOLA\PIC32_START\source\global_var.c	261;"	m	line:261	file:
+Zona_2_Fine	D:\SCUOLA\PIC32_START\source\global_var.c	320;"	m	line:320	file:
+Zona_2_Inizio	D:\SCUOLA\PIC32_START\source\global_var.c	260;"	m	line:260	file:
+Zona_2_Inizio	D:\SCUOLA\PIC32_START\source\global_var.c	319;"	m	line:319	file:
+_485_COM1_IN_RX::LATFbits.LATF3=0	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	16;"	d	line:16	file:
+_485_COM1_IN_TX::LATFbits.LATF3=1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	15;"	d	line:15	file:
+_DIRENTRY	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	173;"	t	line:173	file:
+_FLAG_MINUS::0x1	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	189;"	d	line:189	file:
+_FLAG_OCTO::0x8	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	192;"	d	line:192	file:
+_FLAG_PLUS::0x2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	190;"	d	line:190	file:
+_FLAG_SIGNED::0x80	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	194;"	d	line:194	file:
+_FLAG_SPACE::0x4	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	191;"	d	line:191	file:
+_FLAG_ZERO::0x10	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	193;"	d	line:193	file:
+_FMT_BYTE::3	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	200;"	d	line:200	file:
+_FMT_BYTE::3	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	205;"	d	line:205	file:
+_FMT_LONG::1	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	198;"	d	line:198	file:
+_FMT_LONG::2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	204;"	d	line:204	file:
+_FMT_LONGLONG::1	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	203;"	d	line:203	file:
+_FMT_SHRTLONG::2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	199;"	d	line:199	file:
+_FMT_UNSPECIFIED::0	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	197;"	d	line:197	file:
+_FMT_UNSPECIFIED::0	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	202;"	d	line:202	file:
+_RX_COM1_OFF::U1ASTAbits.URXEN=0	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	20;"	d	line:20	file:
+_RX_COM1_ON::U1ASTAbits.URXEN=1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	21;"	d	line:21	file:
+_RX_DATO_COM1::(IFS1&(1<<9))	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	18;"	d	line:18	file:
+_status	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2116;"	g	line:2116	file:
+a	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2492;"	l	line:2492
+a	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3482;"	l	line:3482
+a	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3614;"	l	line:3614
+a	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3687;"	l	line:3687
+a	D:\SCUOLA\PIC32_START\source\global_var.c	499;"	m	line:499	file:
+a	D:\SCUOLA\PIC32_START\source\global_var.c	526;"	m	line:526	file:
+aChar	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6840;"	l	line:6840
+acc	D:\SCUOLA\PIC32_START\source\global_var.c	850;"	m	line:850	file:
+aggiorna_out	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	77;"	f	line:77	signature:(void)
+amountfound	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2491;"	l	line:2491
+ap	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8751;"	l	line:8751
+aree_sens	D:\SCUOLA\PIC32_START\source\global_var.c	527;"	v	line:527
+aree_sens_t	D:\SCUOLA\PIC32_START\source\global_var.c	500;"	v	line:500
+attrib	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	410;"	l	line:410
+b	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2494;"	l	line:2494
+bHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2493;"	l	line:2493
+bits	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	29;"	m	line:29	file:
+bits	D:\SCUOLA\PIC32_START\source\global_var.c	604;"	m	line:604	file:
+block_len	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	862;"	l	line:862
+brg	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	136;"	l	line:136
+buf	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9156;"	l	line:9156
+buf	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9162;"	l	line:9162
+bufferEnd	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6833;"	l	line:6833
+bufferOverflow	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6835;"	l	line:6835
+byte	D:\SCUOLA\PIC32_START\source\global_var.c	805;"	m	line:805	file:
+byte1	D:\SCUOLA\PIC32_START\source\global_var.c	1061;"	v	line:1061
+byte2	D:\SCUOLA\PIC32_START\source\global_var.c	1062;"	v	line:1062
+byte3	D:\SCUOLA\PIC32_START\source\global_var.c	1063;"	v	line:1063
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2115;"	l	line:2115
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2698;"	l	line:2698
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2905;"	l	line:2905
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2974;"	l	line:2974
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5968;"	l	line:5968
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6138;"	l	line:6138
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	716;"	l	line:716
+c	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8793;"	l	line:8793
+c2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2115;"	l	line:2115
+c2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	716;"	l	line:716
+c_size	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	860;"	l	line:860
+c_size_mult	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	861;"	l	line:861
+cc	D:\SCUOLA\PIC32_START\source\global_var.c	666;"	m	line:666	file:
+ccls	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2048;"	l	line:2048
+ccls	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2215;"	l	line:2215
+character	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3483;"	l	line:3483
+character	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	414;"	l	line:414
+chdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	273;"	p	line:273	file:	signature:(BYTE mode, char * ramptr, const rom char * romptr)
+chdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	279;"	p	line:279	file:	signature:(BYTE mode, char * ramptr, char * romptr)
+chdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6410;"	f	line:6410	signature:(BYTE mode, char * ramptr, const rom char * romptr)
+cicli_RIGA	D:\SCUOLA\PIC32_START\source\global_var.c	1088;"	v	line:1088
+clear	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	749;"	l	line:749
+clus	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3689;"	l	line:3689
+cluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2214;"	l	line:2214
+cluster	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2426;"	l	line:2426
+cmd	D:\SCUOLA\PIC32_START\source\global_var.c	804;"	m	line:804	file:
+cod	D:\SCUOLA\PIC32_START\source\global_var.c	498;"	m	line:498	file:
+cod	D:\SCUOLA\PIC32_START\source\global_var.c	525;"	m	line:525	file:
+cod_hardware	D:\SCUOLA\PIC32_START\source\global_var.c	725;"	m	line:725	file:
+cod_software	D:\SCUOLA\PIC32_START\source\global_var.c	726;"	m	line:726	file:
+com1	D:\SCUOLA\PIC32_START\source\global_var.c	791;"	v	line:791
+com3	D:\SCUOLA\PIC32_START\source\global_var.c	769;"	v	line:769
+compareAttrib	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	410;"	l	line:410
+conta	D:\SCUOLA\PIC32_START\source\global_var.c	1217;"	m	line:1217	file:
+conta	D:\SCUOLA\PIC32_START\source\global_var.c	1228;"	m	line:1228	file:
+conta	D:\SCUOLA\PIC32_START\source\global_var.c	1288;"	m	line:1288	file:
+conta	D:\SCUOLA\PIC32_START\source\global_var.c	1302;"	m	line:1302	file:
+conta	D:\SCUOLA\PIC32_START\source\global_var.c	234;"	m	line:234	file:
+conta	D:\SCUOLA\PIC32_START\source\global_var.c	665;"	m	line:665	file:
+conta1	D:\SCUOLA\PIC32_START\source\global_var.c	1303;"	m	line:1303	file:
+conta_D1	D:\SCUOLA\PIC32_START\source\global_var.c	1320;"	m	line:1320	file:
+conta_DepositiRiga	D:\SCUOLA\PIC32_START\source\global_var.c	1322;"	m	line:1322	file:
+conta_P1	D:\SCUOLA\PIC32_START\source\global_var.c	1319;"	m	line:1319	file:
+conta_PrelieviRiga	D:\SCUOLA\PIC32_START\source\global_var.c	1321;"	m	line:1321	file:
+conta_temp	D:\SCUOLA\PIC32_START\source\global_var.c	1324;"	m	line:1324	file:
+count	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4984;"	l	line:4984
+count	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5405;"	l	line:5405
+count	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5807;"	l	line:5807
+count	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5845;"	l	line:5845
+count	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5883;"	l	line:5883
+count	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5924;"	l	line:5924
+count	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8794;"	l	line:8794
+count	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	686;"	l	line:686
+count	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	859;"	l	line:859
+counter	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	575;"	l	line:575
+curcls	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2905;"	l	line:2905
+curcls	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2974;"	l	line:2974
+curclus	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6837;"	l	line:6837
+curent	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6416;"	l	line:6416
+cval	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8809;"	l	line:8809
+cwd	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	129;"	v	line:129
+cwdptr	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	130;"	v	line:130
+d	D:\SCUOLA\PIC32_START\source\EEPROM.C	113;"	l	line:113
+d	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1396;"	l	line:1396
+d	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5968;"	l	line:5968
+d0	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2704;"	l	line:2704
+d1	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2704;"	l	line:2704
+dataBufferPointer	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1404;"	l	line:1404
+data_response	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	576;"	l	line:576
+data_token	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	471;"	l	line:471
+dato	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	141;"	l	line:141
+dato	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	34;"	v	line:34
+day	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3382;"	l	line:3382
+debug_p1	D:\SCUOLA\PIC32_START\source\global_var.c	844;"	v	line:844
+debug_p2	D:\SCUOLA\PIC32_START\source\global_var.c	845;"	v	line:845
+defaultArray	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6784;"	v	line:6784
+defaultString	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6312;"	v	line:6312
+delay	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	469;"	l	line:469
+delay_ms	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	59;"	f	line:59	signature:(unsigned int ms)
+delay_tx_com1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	27;"	f	line:27	signature:(int x)
+dep_y	D:\SCUOLA\PIC32_START\source\global_var.c	1086;"	v	line:1086
+dep_y1	D:\SCUOLA\PIC32_START\source\global_var.c	1087;"	v	line:1087
+dest	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4564;"	l	line:4564
+dest	D:\SCUOLA\PIC32_START\source\global_var.c	803;"	m	line:803	file:
+digit_cnt	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9150;"	l	line:9150
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2211;"	l	line:2211
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2428;"	l	line:2428
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2495;"	l	line:2495
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2610;"	l	line:2610
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3272;"	l	line:3272
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3481;"	l	line:3481
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3613;"	l	line:3613
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3686;"	l	line:3686
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3792;"	l	line:3792
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4899;"	l	line:4899
+dir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7687;"	l	line:7687
+dirCleared	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	123;"	v	line:123
+dirEntryPtr	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7686;"	l	line:7686
+dirclus	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7087;"	l	line:7087
+dirptr	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7088;"	l	line:7088
+disk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1397;"	l	line:1397
+disk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2972;"	l	line:2972
+disk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3690;"	l	line:3690
+disk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4607;"	l	line:4607
+disk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	718;"	l	line:718
+dot	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7689;"	l	line:7689
+dotdot	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7689;"	l	line:7689
+dotdotPath	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7283;"	l	line:7283
+dotdotname	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7993;"	l	line:7993
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2044;"	l	line:2044
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2212;"	l	line:2212
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2904;"	l	line:2904
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4986;"	l	line:4986
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5184;"	l	line:5184
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5270;"	l	line:5270
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5641;"	l	line:5641
+dsk	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	595;"	l	line:595
+entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6417;"	l	line:6417
+entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6841;"	l	line:6841
+entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7780;"	l	line:7780
+entry	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7984;"	l	line:7984
+entryptr	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7781;"	l	line:7781
+eraseDir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	267;"	p	line:267	file:	signature:(char * path)
+eraseDir	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8326;"	f	line:8326	signature:(char * path)
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1023;"	l	line:1023
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2367;"	l	line:2367
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2425;"	l	line:2425
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2609;"	l	line:2609
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3270;"	l	line:3270
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4608;"	l	line:4608
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4685;"	l	line:4685
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4987;"	l	line:4987
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5273;"	l	line:5273
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	598;"	l	line:598
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	717;"	l	line:717
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	803;"	l	line:803
+error	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	878;"	l	line:878
+f	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8418;"	l	line:8418
+f	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8549;"	l	line:8549
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2427;"	l	line:2427
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3266;"	l	line:3266
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3791;"	l	line:3791
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3954;"	l	line:3954
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	411;"	l	line:411
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4898;"	l	line:4898
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6838;"	l	line:6838
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7086;"	l	line:7086
+fHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8421;"	l	line:8421
+fIndex	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	325;"	l	line:325
+fIndex	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3268;"	l	line:3268
+fIndex	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3951;"	l	line:3951
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	1163;"	m	line:1163	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	1195;"	m	line:1195	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	1216;"	m	line:1216	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	1227;"	m	line:1227	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	1293;"	m	line:1293	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	1308;"	m	line:1308	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	1327;"	m	line:1327	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	210;"	m	line:210	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	226;"	m	line:226	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	42;"	m	line:42	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	472;"	m	line:472	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	65;"	m	line:65	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	663;"	m	line:663	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	671;"	m	line:671	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	677;"	m	line:677	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	682;"	m	line:682	file:
+fase	D:\SCUOLA\PIC32_START\source\global_var.c	712;"	m	line:712	file:
+fase_old	D:\SCUOLA\PIC32_START\source\global_var.c	211;"	m	line:211	file:
+fase_temp	D:\SCUOLA\PIC32_START\source\global_var.c	227;"	m	line:227	file:
+fatsize	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1399;"	l	line:1399
+filePtr	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3949;"	l	line:3949
+filesize	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4990;"	l	line:4990
+final	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3955;"	l	line:3955
+fine	D:\SCUOLA\PIC32_START\source\global_var.c	151;"	m	line:151	file:
+fine	D:\SCUOLA\PIC32_START\source\global_var.c	15;"	m	line:15	file:
+fine	D:\SCUOLA\PIC32_START\source\global_var.c	165;"	m	line:165	file:
+fine	D:\SCUOLA\PIC32_START\source\global_var.c	182;"	m	line:182	file:
+fine	D:\SCUOLA\PIC32_START\source\global_var.c	193;"	m	line:193	file:
+fine_zona	D:\SCUOLA\PIC32_START\source\global_var.c	236;"	m	line:236	file:
+flag	D:\SCUOLA\PIC32_START\source\global_var.c	1249;"	m	line:1249	file:
+flags	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8800;"	l	line:8800
+flushData	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	247;"	p	line:247	file:	signature:(void)
+flushData	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5181;"	f	line:5181	signature:(void)
+fo	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4250;"	l	line:4250
+fo	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7983;"	l	line:7983
+fo	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8419;"	l	line:8419
+fo	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8550;"	l	line:8550
+fontP	D:\SCUOLA\PIC32_START\source\global_var.c	126;"	m	line:126	file:
+gBufferOwner	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	111;"	v	line:111
+gBufferZeroed	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	116;"	v	line:116
+gDataBuffer	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	136;"	v	line:136
+gDataBuffer	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	142;"	v	line:142
+gDiskData	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	149;"	v	line:149
+gFATBuffer	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	138;"	v	line:138
+gFATBuffer	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	143;"	v	line:143
+gFileArray	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	95;"	v	line:95
+gFileSlotOpen	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	96;"	v	line:96
+gFileTemp	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	126;"	v	line:126
+gLastDataSectorRead	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	112;"	v	line:112
+gLastFATSectorRead	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	109;"	v	line:109
+gMediaSectorSize	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	66;"	v	line:66
+gNeedDataWrite	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	113;"	v	line:113
+gNeedFATWrite	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	110;"	v	line:110
+gSDMode	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	67;"	v	line:67
+gTimeAccDate	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	104;"	v	line:104
+gTimeCrtDate	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	103;"	v	line:103
+gTimeCrtMS	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	101;"	v	line:101
+gTimeCrtTime	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	102;"	v	line:102
+gTimeWrtDate	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	106;"	v	line:106
+gTimeWrtTime	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	105;"	v	line:105
+gest_msg_com1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	63;"	f	line:63	signature:(void)
+goodHandle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3791;"	l	line:3791
+handle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7688;"	l	line:7688
+handle	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7985;"	l	line:7985
+handle2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7986;"	l	line:7986
+have_precision	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8803;"	l	line:8803
+hiByte	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4763;"	l	line:4763
+hiWord	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4797;"	l	line:4797
+hours	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3380;"	l	line:3380
+i	D:\SCUOLA\PIC32_START\source\EEPROM.C	141;"	l	line:141
+i	D:\SCUOLA\PIC32_START\source\EEPROM.C	168;"	l	line:168
+i	D:\SCUOLA\PIC32_START\source\EEPROM.C	190;"	l	line:190
+i	D:\SCUOLA\PIC32_START\source\EEPROM.C	209;"	l	line:209
+i	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	185;"	l	line:185
+i	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	227;"	l	line:227	file:
+i	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	258;"	l	line:258
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3141;"	l	line:3141
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5490;"	l	line:5490
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6138;"	l	line:6138
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6415;"	l	line:6415
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6839;"	l	line:6839
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7085;"	l	line:7085
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7274;"	l	line:7274
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7690;"	l	line:7690
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7778;"	l	line:7778
+i	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8552;"	l	line:8552
+i	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	169;"	l	line:169
+i	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	193;"	l	line:193
+i	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	243;"	l	line:243
+i	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	273;"	l	line:273
+i	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	280;"	l	line:280
+i	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	289;"	l	line:289
+i	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	61;"	l	line:61
+i	D:\SCUOLA\PIC32_START\source\main.c	188;"	l	line:188
+i	D:\SCUOLA\PIC32_START\source\pwm.c	49;"	l	line:49
+ind	D:\SCUOLA\PIC32_START\source\global_var.c	1221;"	m	line:1221	file:
+index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2366;"	l	line:2366
+index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3482;"	l	line:3482
+index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	412;"	l	line:412
+index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4683;"	l	line:4683
+index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5566;"	l	line:5566
+index	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6839;"	l	line:6839
+index	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	368;"	l	line:368
+index	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	468;"	l	line:468
+index	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	574;"	l	line:574
+index	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	859;"	l	line:859
+info	D:\SCUOLA\PIC32_START\source\global_var.c	806;"	m	line:806	file:
+ing	D:\SCUOLA\PIC32_START\source\global_var.c	728;"	m	line:728	file:
+ing_old	D:\SCUOLA\PIC32_START\source\global_var.c	729;"	m	line:729	file:
+inizio	D:\SCUOLA\PIC32_START\source\global_var.c	150;"	m	line:150	file:
+inizio	D:\SCUOLA\PIC32_START\source\global_var.c	164;"	m	line:164	file:
+inizio	D:\SCUOLA\PIC32_START\source\global_var.c	181;"	m	line:181	file:
+inizio	D:\SCUOLA\PIC32_START\source\global_var.c	192;"	m	line:192	file:
+inizio_zona	D:\SCUOLA\PIC32_START\source\global_var.c	235;"	m	line:235	file:
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1398;"	l	line:1398
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3789;"	l	line:3789
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5490;"	l	line:5490
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6415;"	l	line:6415
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6836;"	l	line:6836
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7274;"	l	line:7274
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8422;"	l	line:8422
+j	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8552;"	l	line:8552
+j	D:\SCUOLA\PIC32_START\source\main.c	188;"	l	line:188
+k	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3789;"	l	line:3789
+l	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4989;"	l	line:4989
+l	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5183;"	l	line:5183
+l	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5967;"	l	line:5967
+l	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	597;"	l	line:597
+l	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6139;"	l	line:6139
+larg	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8811;"	l	line:8811
+larg	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8814;"	l	line:8814
+legge_ingressi	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	96;"	f	line:96	signature:(void)
+len	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5268;"	l	line:5268
+letto	D:\SCUOLA\PIC32_START\source\global_var.c	859;"	v	line:859
+li	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6139;"	l	line:6139
+lista_z	D:\SCUOLA\PIC32_START\source\global_var.c	134;"	v	line:134
+loByte	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4763;"	l	line:4763
+loWord	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4797;"	l	line:4797
+m	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	61;"	l	line:61
+m_dep	D:\SCUOLA\PIC32_START\source\global_var.c	1084;"	v	line:1084
+m_dep1	D:\SCUOLA\PIC32_START\source\global_var.c	1085;"	v	line:1085
+main	D:\SCUOLA\PIC32_START\source\main.c	186;"	f	line:186	signature:(void)
+masterBootRecord	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1393;"	l	line:1393
+mat_d	D:\SCUOLA\PIC32_START\source\global_var.c	1082;"	v	line:1082
+mat_p	D:\SCUOLA\PIC32_START\source\global_var.c	1080;"	v	line:1080
+mat_pp	D:\SCUOLA\PIC32_START\source\global_var.c	1081;"	v	line:1081
+mediaInfo	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1401;"	l	line:1401
+mediaInformation	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	804;"	l	line:804
+mediaInformation	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	68;"	v	line:68	file:
+menu_ON_OFF	D:\SCUOLA\PIC32_START\source\global_var.c	694;"	v	line:694
+menu_TIPO_MAC	D:\SCUOLA\PIC32_START\source\global_var.c	697;"	v	line:697
+minsec	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2698;"	l	line:2698
+minutes	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3379;"	l	line:3379
+mkdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	270;"	p	line:270	file:	signature:(BYTE mode, char * ramptr, const rom char * romptr)
+mkdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	276;"	p	line:276	file:	signature:(BYTE mode, char * ramptr, char * romptr)
+mkdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7269;"	f	line:7269	signature:(BYTE mode, char * ramptr, const rom char * romptr)
+modo	D:\SCUOLA\PIC32_START\source\global_var.c	147;"	m	line:147	file:
+modo	D:\SCUOLA\PIC32_START\source\global_var.c	161;"	m	line:161	file:
+modo	D:\SCUOLA\PIC32_START\source\global_var.c	177;"	m	line:177	file:
+modo	D:\SCUOLA\PIC32_START\source\global_var.c	188;"	m	line:188	file:
+modo	D:\SCUOLA\PIC32_START\source\global_var.c	265;"	m	line:265	file:
+modo	D:\SCUOLA\PIC32_START\source\global_var.c	324;"	m	line:324	file:
+month	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3383;"	l	line:3383
+monthday	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2698;"	l	line:2698
+ms	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	685;"	l	line:685
+msecCounter	D:\SCUOLA\PIC32_START\source\global_var.c	1262;"	v	line:1262
+msg_CMD	D:\SCUOLA\PIC32_START\source\global_var.c	768;"	m	line:768	file:
+msg_CMD	D:\SCUOLA\PIC32_START\source\global_var.c	790;"	m	line:790	file:
+msg_NUM_TENTATIVI	D:\SCUOLA\PIC32_START\source\global_var.c	765;"	m	line:765	file:
+msg_NUM_TENTATIVI	D:\SCUOLA\PIC32_START\source\global_var.c	787;"	m	line:787	file:
+msg_START	D:\SCUOLA\PIC32_START\source\global_var.c	767;"	m	line:767	file:
+msg_START	D:\SCUOLA\PIC32_START\source\global_var.c	789;"	m	line:789	file:
+msg_TENTATIVI	D:\SCUOLA\PIC32_START\source\global_var.c	764;"	m	line:764	file:
+msg_TENTATIVI	D:\SCUOLA\PIC32_START\source\global_var.c	786;"	m	line:786	file:
+msg_TIMEOUT	D:\SCUOLA\PIC32_START\source\global_var.c	766;"	m	line:766	file:
+msg_TIMEOUT	D:\SCUOLA\PIC32_START\source\global_var.c	788;"	m	line:788	file:
+msg_fase	D:\SCUOLA\PIC32_START\source\global_var.c	763;"	m	line:763	file:
+msg_fase	D:\SCUOLA\PIC32_START\source\global_var.c	785;"	m	line:785	file:
+n	D:\SCUOLA\PIC32_START\source\EEPROM.C	114;"	l	line:114
+n	D:\SCUOLA\PIC32_START\source\EEPROM.C	63;"	l	line:63
+n	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8752;"	l	line:8752
+n	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8817;"	l	line:8817
+name	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2368;"	l	line:2368
+needRead	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5065;"	l	line:5065
+new_addr	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	473;"	l	line:473
+new_velocita	D:\SCUOLA\PIC32_START\source\global_var.c	220;"	m	line:220	file:
+nextClusterIsLast	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	114;"	v	line:114
+nomi_g	D:\SCUOLA\PIC32_START\source\global_var.c	86;"	v	line:86
+nomi_gg	D:\SCUOLA\PIC32_START\source\global_var.c	75;"	v	line:75
+np	D:\SCUOLA\PIC32_START\source\global_var.c	13;"	m	line:13	file:
+np	D:\SCUOLA\PIC32_START\source\global_var.c	149;"	m	line:149	file:
+np	D:\SCUOLA\PIC32_START\source\global_var.c	163;"	m	line:163	file:
+np	D:\SCUOLA\PIC32_START\source\global_var.c	180;"	m	line:180	file:
+np	D:\SCUOLA\PIC32_START\source\global_var.c	191;"	m	line:191	file:
+np	D:\SCUOLA\PIC32_START\source\global_var.c	238;"	m	line:238	file:
+np	D:\SCUOLA\PIC32_START\source\global_var.c	264;"	m	line:264	file:
+np	D:\SCUOLA\PIC32_START\source\global_var.c	323;"	m	line:323	file:
+num_Tabella	D:\SCUOLA\PIC32_START\source\global_var.c	824;"	v	line:824
+num_err	D:\SCUOLA\PIC32_START\source\global_var.c	745;"	m	line:745	file:
+num_msg	D:\SCUOLA\PIC32_START\source\global_var.c	743;"	m	line:743	file:
+num_rip	D:\SCUOLA\PIC32_START\source\global_var.c	744;"	m	line:744	file:
+numofclus	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2217;"	l	line:2217
+numsector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5640;"	l	line:5640
+offset2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2046;"	l	line:2046
+offset2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2216;"	l	line:2216
+offset2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5643;"	l	line:5643
+out	D:\SCUOLA\PIC32_START\source\global_var.c	727;"	m	line:727	file:
+out_A	D:\SCUOLA\PIC32_START\source\global_var.c	732;"	m	line:732	file:
+out_T	D:\SCUOLA\PIC32_START\source\global_var.c	737;"	m	line:737	file:
+p	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5967;"	l	line:5967
+p	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6139;"	l	line:6139
+p	D:\SCUOLA\PIC32_START\source\global_var.c	487;"	m	line:487	file:
+p1	D:\SCUOLA\PIC32_START\source\global_var.c	1318;"	m	line:1318	file:
+pExt	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5402;"	l	line:5402
+pointer	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5269;"	l	line:5269
+pos	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4988;"	l	line:4988
+pos	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5272;"	l	line:5272
+pos	D:\SCUOLA\PIC32_START\source\global_var.c	1248;"	m	line:1248	file:
+pos	D:\SCUOLA\PIC32_START\source\global_var.c	848;"	m	line:848	file:
+pre_y	D:\SCUOLA\PIC32_START\source\global_var.c	1273;"	v	line:1273
+precision	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8802;"	l	line:8802
+prefix_cnt	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9151;"	l	line:9151
+premuto	D:\SCUOLA\PIC32_START\source\global_var.c	488;"	m	line:488	file:
+ptr0	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2699;"	l	line:2699
+ptr1	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2699;"	l	line:2699
+pwm_init	D:\SCUOLA\PIC32_START\source\pwm.c	6;"	f	line:6	signature:(void)
+q	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5966;"	l	line:5966
+q	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6138;"	l	line:6138
+q	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9158;"	l	line:9158
+q	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9163;"	l	line:9163
+quote	D:\SCUOLA\PIC32_START\source\global_var.c	1218;"	m	line:1218	file:
+quote	D:\SCUOLA\PIC32_START\source\global_var.c	689;"	v	line:689
+r	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	596;"	l	line:596
+r_dep	D:\SCUOLA\PIC32_START\source\global_var.c	1323;"	m	line:1323	file:
+radix	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5567;"	l	line:5567
+ramstring	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8816;"	l	line:8816
+readCount	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5274;"	l	line:5274
+recache	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	124;"	v	line:124
+reg	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	65;"	l	line:65
+report	D:\SCUOLA\PIC32_START\source\global_var.c	746;"	v	line:746
+report	D:\SCUOLA\PIC32_START\source\global_var.c	851;"	m	line:851	file:
+res	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4764;"	l	line:4764
+response	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	188;"	l	line:188
+response	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	369;"	l	line:369
+response	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	470;"	l	line:470
+response	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	577;"	l	line:577
+response	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	857;"	l	line:857
+result	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2698;"	l	line:2698
+result	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2835;"	l	line:2835
+result	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4251;"	l	line:4251
+result	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4798;"	l	line:4798
+result	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8328;"	l	line:8328
+result	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8420;"	l	line:8420
+result	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8551;"	l	line:8551
+rete	D:\SCUOLA\PIC32_START\source\global_var.c	714;"	v	line:714
+returnPointer	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6832;"	l	line:6832
+rmdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	271;"	p	line:271	file:	signature:(BYTE mode, char * ramptr, const rom char * romptr, unsigned char rmsubdirs)
+rmdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	277;"	p	line:277	file:	signature:(BYTE mode, char * ramptr, char * romptr, unsigned char rmsubdirs)
+rmdirhelper	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7977;"	f	line:7977	signature:(BYTE mode, char * ramptr, const rom char * romptr, unsigned char rmsubdirs)
+romstring	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8812;"	l	line:8812
+rx_buffer	D:\SCUOLA\PIC32_START\source\global_var.c	756;"	m	line:756	file:
+rx_buffer	D:\SCUOLA\PIC32_START\source\global_var.c	778;"	m	line:778	file:
+rx_num_car	D:\SCUOLA\PIC32_START\source\global_var.c	755;"	m	line:755	file:
+rx_num_car	D:\SCUOLA\PIC32_START\source\global_var.c	777;"	m	line:777	file:
+rx_over	D:\SCUOLA\PIC32_START\source\global_var.c	752;"	m	line:752	file:
+rx_over	D:\SCUOLA\PIC32_START\source\global_var.c	774;"	m	line:774	file:
+rx_stato	D:\SCUOLA\PIC32_START\source\global_var.c	757;"	m	line:757	file:
+rx_stato	D:\SCUOLA\PIC32_START\source\global_var.c	779;"	m	line:779	file:
+rx_trama_com1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	255;"	f	line:255	signature:(unsigned char Carattere)
+s_digits	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	209;"	v	line:209	file:
+s_digits	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	211;"	v	line:211	file:
+sch	D:\SCUOLA\PIC32_START\source\global_var.c	713;"	m	line:713	file:
+sch_D	D:\SCUOLA\PIC32_START\source\global_var.c	738;"	v	line:738
+sdmmc_cmdtable	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	71;"	v	line:71
+secCount	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1394;"	l	line:1394
+sec_sel	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5271;"	l	line:5271
+seconds	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3378;"	l	line:3378
+sector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2047;"	l	line:2047
+sector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2213;"	l	line:2213
+sector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4838;"	l	line:4838
+sector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7782;"	l	line:7782
+seek	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4990;"	l	line:4990
+seek	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5271;"	l	line:5271
+senso_i	D:\SCUOLA\PIC32_START\source\global_var.c	48;"	v	line:48
+sign_char	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9152;"	l	line:9152
+size	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4563;"	l	line:4563
+size	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7779;"	l	line:7779
+size	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8804;"	l	line:8804
+size2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8806;"	l	line:8806
+sorg	D:\SCUOLA\PIC32_START\source\global_var.c	802;"	m	line:802	file:
+source	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4565;"	l	line:4565
+space_cnt	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8808;"	l	line:8808
+spiconvalue	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	864;"	l	line:864
+src	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4985;"	l	line:4985
+state	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	412;"	l	line:412
+statoM	D:\SCUOLA\PIC32_START\source\global_var.c	723;"	m	line:723	file:
+stato_soffiante	D:\SCUOLA\PIC32_START\source\global_var.c	634;"	v	line:634
+status	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2045;"	l	line:2045
+status	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2116;"	l	line:2116
+status	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2490;"	l	line:2490
+status	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3484;"	l	line:3484
+status	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3688;"	l	line:3688
+status	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	472;"	l	line:472
+status	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	578;"	l	line:578
+statusB	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	413;"	l	line:413
+storico_com	D:\SCUOLA\PIC32_START\source\global_var.c	852;"	v	line:852
+str_put_n_chars	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	290;"	p	line:290	file:	signature:(FSFILE * handle, unsigned char n, char c)
+str_put_n_chars	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8708;"	f	line:8708	signature:(FSFILE * handle, unsigned char n, char c)
+stream	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5187;"	l	line:5187
+string	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3790;"	l	line:3790
+subDirDepth	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7987;"	l	line:7987
+svuota_buffer_com1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	36;"	f	line:36	signature:(void)
+szName	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5404;"	l	line:5404
+t0	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2703;"	l	line:2703
+t1	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2703;"	l	line:2703
+temp	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5403;"	l	line:5403
+temp	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5640;"	l	line:5640
+tempArray	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6423;"	l	line:6423
+tempArray	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7279;"	l	line:7279
+tempArray	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7872;"	v	line:7872
+tempArray	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7991;"	l	line:7991
+tempCWD	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6424;"	l	line:6424
+tempCWD	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6834;"	l	line:6834
+tempCWD	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7280;"	l	line:7280
+tempCWD	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7982;"	l	line:7982
+tempCWDobj	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	125;"	v	line:125
+tempCWDobj2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6422;"	l	line:6422
+tempCWDobj2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8330;"	l	line:8330
+tempSector	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1265;"	l	line:1265
+tempString	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5491;"	l	line:5491
+tempindex	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6838;"	l	line:6838
+tempo	D:\SCUOLA\PIC32_START\source\global_var.c	473;"	m	line:473	file:
+temppath	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6418;"	l	line:6418
+temppath	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7275;"	l	line:7275
+temppath2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6420;"	l	line:6420
+temppath2	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7277;"	l	line:7277
+test	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	1399;"	l	line:1399
+test	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3485;"	l	line:3485
+test	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	414;"	l	line:414
+test	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	5642;"	l	line:5642
+test_color	D:\SCUOLA\PIC32_START\source\global_var.c	1073;"	v	line:1073
+timeout	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	367;"	l	line:367
+timeout	D:\SCUOLA\PIC32_START\source\SD\SD-SPI.c	856;"	l	line:856
+timer	D:\SCUOLA\PIC32_START\source\global_var.c	253;"	m	line:253	file:
+timer	D:\SCUOLA\PIC32_START\source\global_var.c	312;"	m	line:312	file:
+totalchars	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	6831;"	l	line:6831
+tt	D:\SCUOLA\PIC32_START\source\global_var.c	138;"	v	line:138
+tx_CNT_read	D:\SCUOLA\PIC32_START\source\global_var.c	760;"	m	line:760	file:
+tx_CNT_read	D:\SCUOLA\PIC32_START\source\global_var.c	782;"	m	line:782	file:
+tx_CNT_write	D:\SCUOLA\PIC32_START\source\global_var.c	761;"	m	line:761	file:
+tx_CNT_write	D:\SCUOLA\PIC32_START\source\global_var.c	783;"	m	line:783	file:
+tx_buffer	D:\SCUOLA\PIC32_START\source\global_var.c	758;"	m	line:758	file:
+tx_buffer	D:\SCUOLA\PIC32_START\source\global_var.c	780;"	m	line:780	file:
+tx_msg	D:\SCUOLA\PIC32_START\source\global_var.c	759;"	m	line:759	file:
+tx_msg	D:\SCUOLA\PIC32_START\source\global_var.c	781;"	m	line:781	file:
+tx_trama_com1	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	225;"	f	line:225	signature:( void)
+type	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	879;"	l	line:879
+uart1_init	D:\SCUOLA\PIC32_START\source\F_COM1_A.C	183;"	f	line:183	signature:(void)
+va_arg	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9378;"	p	line:9378	file:	signature:(ap, long *)
+va_arg	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9382;"	p	line:9382	file:	signature:(ap, short long *)
+va_arg	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9386;"	p	line:9386	file:	signature:(ap, long long *)
+va_arg	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9390;"	p	line:9390	file:	signature:(ap, signed char *)
+va_arg	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	9393;"	p	line:9393	file:	signature:(ap, int *)
+value	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2973;"	l	line:2973
+value	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3142;"	l	line:3142
+vel	D:\SCUOLA\PIC32_START\source\global_var.c	152;"	m	line:152	file:
+vel	D:\SCUOLA\PIC32_START\source\global_var.c	166;"	m	line:166	file:
+vel	D:\SCUOLA\PIC32_START\source\global_var.c	16;"	m	line:16	file:
+vel	D:\SCUOLA\PIC32_START\source\global_var.c	183;"	m	line:183	file:
+vel	D:\SCUOLA\PIC32_START\source\global_var.c	194;"	m	line:194	file:
+vel	D:\SCUOLA\PIC32_START\source\global_var.c	849;"	m	line:849	file:
+vel_max	D:\SCUOLA\PIC32_START\source\global_var.c	255;"	m	line:255	file:
+vel_max	D:\SCUOLA\PIC32_START\source\global_var.c	314;"	m	line:314	file:
+velocita	D:\SCUOLA\PIC32_START\source\global_var.c	215;"	m	line:215	file:
+velocita	D:\SCUOLA\PIC32_START\source\global_var.c	254;"	m	line:254	file:
+velocita	D:\SCUOLA\PIC32_START\source\global_var.c	313;"	m	line:313	file:
+velocita	D:\SCUOLA\PIC32_START\source\global_var.c	67;"	m	line:67	file:
+vettore	D:\SCUOLA\PIC32_START\source\global_var.c	71;"	v	line:71
+vettore1	D:\SCUOLA\PIC32_START\source\global_var.c	72;"	v	line:72
+vettore_dx	D:\SCUOLA\PIC32_START\source\global_var.c	73;"	v	line:73
+vettore_prova	D:\SCUOLA\PIC32_START\source\global_var.c	840;"	v	line:840
+wait	D:\SCUOLA\PIC32_START\source\global_var.c	1287;"	m	line:1287	file:
+wait	D:\SCUOLA\PIC32_START\source\global_var.c	1301;"	m	line:1301	file:
+wait	D:\SCUOLA\PIC32_START\source\global_var.c	1317;"	m	line:1317	file:
+weekhour	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2698;"	l	line:2698
+width	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	8801;"	l	line:8801
+word	D:\SCUOLA\PIC32_START\source\TimerFunctions.c	30;"	m	line:30	file:
+word	D:\SCUOLA\PIC32_START\source\global_var.c	605;"	m	line:605	file:
+writeCount	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	4991;"	l	line:4991
+writeDotEntries	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	266;"	p	line:266	file:	signature:(DISK * dsk, DWORD dotAddress, DWORD dotdotAddress)
+writeDotEntries	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	7776;"	f	line:7776	signature:(DISK * disk, DWORD dotAddress, DWORD dotdotAddress)
+x	D:\SCUOLA\PIC32_START\source\global_var.c	124;"	m	line:124	file:
+x_T3_2	D:\SCUOLA\PIC32_START\source\global_var.c	650;"	m	line:650	file:
+xx	D:\SCUOLA\PIC32_START\source\main.c	181;"	v	line:181
+y	D:\SCUOLA\PIC32_START\source\global_var.c	125;"	m	line:125	file:
+year	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	2698;"	l	line:2698
+year	D:\SCUOLA\PIC32_START\source\SD\FSIO.c	3384;"	l	line:3384
+zona	D:\SCUOLA\PIC32_START\source\global_var.c	239;"	m	line:239	file:
+zone	D:\SCUOLA\PIC32_START\source\global_var.c	154;"	v	line:154
+zone	D:\SCUOLA\PIC32_START\source\global_var.c	252;"	m	line:252	file:
+zone	D:\SCUOLA\PIC32_START\source\global_var.c	311;"	m	line:311	file:
+zoneT	D:\SCUOLA\PIC32_START\source\global_var.c	184;"	v	line:184
+zoneTT	D:\SCUOLA\PIC32_START\source\global_var.c	17;"	v	line:17
+zoneTx	D:\SCUOLA\PIC32_START\source\global_var.c	195;"	v	line:195
+zone_default	D:\SCUOLA\PIC32_START\source\global_var.c	168;"	v	line:168

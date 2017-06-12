@@ -1,0 +1,136 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\SCUOLA\PIC32_START\objects\main.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=D:\SCUOLA\PIC32_START\objects\TimerFunctions.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=D:\SCUOLA\PIC32_START\objects\global_var.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=D:\SCUOLA\PIC32_START\objects\EEPROM.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=D:\SCUOLA\PIC32_START\objects\SD-SPI.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=D:\SCUOLA\PIC32_START\objects\FSIO.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=D:\SCUOLA\PIC32_START\objects\pwm.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=D:\SCUOLA\PIC32_START\objects\F_COM1_A.o
+Folder=Intermediary
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={DBB2B82D-3E10-4401-85A6-C9CB169D3E05}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=D:\SCUOLA\PIC32_START\PIC32_TOUCH.elf
+Folder=Output
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={A90E7C70-81C8-4500-B1F8-8560038BEFC0}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-ld.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=D:\SCUOLA\PIC32_START\PIC32_TOUCH.hex
+Folder=Output
+DeviceName=PIC32MX575F512L
+LanguageToolSuiteID={62D235D8-2DB2-49CD-AF24-5489A6015337}
+LanguageToolID={A90E7C70-81C8-4500-B1F8-8560038BEFC0}
+LanguageToolLocation=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-ld.exe
+PPAD=$(BINDIR)|.\objects||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|source\main.c|source\TimerFunctions.c|source\global_var.c|source\EEPROM.C|source\SD\SD-SPI.c|source\SD\FSIO.c|source\pwm.c|source\F_COM1_A.C||<obj>||<lib>|source\libmchp_peripheral.a|source\libmchp_peripheral_32MX575F512L.a||<lkr>|source\app_32MX575F512L.ld||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{DBB2B82D-3E10-4401-85A6-C9CB169D3E05}=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-gcc.exe
+tool_loc{A90E7C70-81C8-4500-B1F8-8560038BEFC0}=C:\Program Files\Microchip\xc32\v1.33\bin\xc32-ld.exe
