@@ -220,7 +220,6 @@
         <property key="ETHERNET CONTROLLER" value="true"/>
         <property key="Freeze All Other Peripherals" value="true"/>
         <property key="I2C1" value="true"/>
-        <property key="I2C2" value="true"/>
         <property key="I2C3" value="true"/>
         <property key="I2C4" value="true"/>
         <property key="I2C5" value="true"/>
@@ -237,7 +236,6 @@
         <property key="OUTPUT COMPARE 5" value="true"/>
         <property key="PARALLEL MASTER/SLAVE PORT" value="true"/>
         <property key="REAL TIME CLOCK" value="true"/>
-        <property key="SPI 1" value="true"/>
         <property key="SPI 2" value="true"/>
         <property key="SPI 3" value="true"/>
         <property key="SPI 4" value="true"/>
