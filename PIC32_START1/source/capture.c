@@ -2,6 +2,7 @@
 #include <sys/attribs.h>
 
 #include "global_var.c"
+#include "global_define.h"
 
 //float periodo_1;
 //float periodo_2;
@@ -61,7 +62,6 @@ void captureInit() {
 }
 
 /********************** Funzioni **************************/
-
 
 /********************** Interrupts **************************/
 /*

@@ -169,11 +169,10 @@ void analyzeRxBuffer() {
 
 void __ISR(_UART_1_VECTOR, IPL5AUTO) UART1InterruptHandler(void) {
 	if(IFS0 & (1 << 27)) {                              // Check if it is an RX Interrupt                
-        //throttleValue = U1RXREG;
         rxManager(U1RXREG);
         rxTimeout = TIMEOUT_SEC;
         decellerate = 0;
-        LATEbits.LATE2 = 0;
+        if (!emergencyStop) LATEbits.LATE2 = 0;
     	IFS0CLR = (1 << 27);                            // Clear the RX interrupt Flag
 	}
 

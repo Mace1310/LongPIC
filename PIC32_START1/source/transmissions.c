@@ -4,8 +4,7 @@
 #include "EEPROM.h"
 
 void setESC(unsigned char arg) {
-    throttleValue = arg;
-    emergencyStop = 0;
+    if (!emergencyStop) throttleValue = arg;
 }
 
 void setMode(unsigned char arg) {
@@ -19,14 +18,8 @@ void emergencyStopON() {
 
 void getRPM() {
     txBuffer[0] = 0x10;
-    //unsigned char RPM1_CHAR[2];
     memcpy(&txBuffer[1], &RPM1, sizeof(RPM1));
-    //unsigned char RPM2_CHAR[2];
     memcpy(&txBuffer[3], &RPM2, sizeof(RPM2));
-    //txBuffer[1] = RPM1_CHAR[0];
-    //txBuffer[2] = RPM1_CHAR[1];
-    //txBuffer[3] = RPM2_CHAR[0];
-    //txBuffer[4] = RPM2_CHAR[1];
     txLength = 5;
     flushTxBuffer();
 }

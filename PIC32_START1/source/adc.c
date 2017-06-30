@@ -2,12 +2,12 @@
 #include <sys/attribs.h>
 
 #include "global_var.c"
+#include "global_define.h"
 
 #define VFS 3.3
 #define MAX_BUF 1023
 #define NO_CURRENT_1 2.484
 #define NO_CURRENT_2 2.487
-#define K 0.9
 
 struct ADC1_BUFFER {
     int BUF0;
@@ -57,8 +57,8 @@ struct LipoCell {
 
 struct LipoBattery battery1_new;
 struct LipoBattery battery2_new;
-struct LipoBattery battery1_old;
-struct LipoBattery battery2_old;
+
+float balancePort[8];
 
 /********************** Inizzializzazione **************************/
 
@@ -128,36 +128,46 @@ void updateBatteryPercentage() {
     float battery_1_cells_sum = battery_1.cell_1 + battery_1.cell_2 + battery_1.cell_3 + battery_1.cell_4;
     float battery_2_cells_sum = battery_2.cell_1 + battery_2.cell_2 + battery_2.cell_3 + battery_2.cell_4;
     float battery_cells_average = (battery_1_cells_sum + battery_2_cells_sum) / 8;
-    batteryPercentage = (unsigned char)cellVoltageToPercentage(battery_cells_average);
+    float batteryPercentage_new = (unsigned char)cellVoltageToPercentage(battery_cells_average);
+    if (batteryPercentage_new == 101) batteryPercentage = batteryPercentage_new;
+    else batteryPercentage = batteryPercentage * K + batteryPercentage_new * (1 - K);
 }
 
 void updateBatteryCellsVoltage() {
-    battery1_old = battery_1;
-    battery2_old = battery_2;
-    battery_1.cell_1 = battery1_old.cell_1 * K + battery1_new.cell_1 * (1 - K);
-    battery_1.cell_2 = battery1_old.cell_2 * K + battery1_new.cell_2 * (1 - K);
-    battery_1.cell_3 = battery1_old.cell_3 * K + battery1_new.cell_3 * (1 - K);
-    battery_1.cell_4 = battery1_old.cell_4 * K + battery1_new.cell_4 * (1 - K);
-    battery_2.cell_1 = battery2_old.cell_1 * K + battery2_new.cell_1 * (1 - K);
-    battery_2.cell_2 = battery2_old.cell_2 * K + battery2_new.cell_2 * (1 - K);
-    battery_2.cell_3 = battery2_old.cell_3 * K + battery2_new.cell_3 * (1 - K);
-    battery_2.cell_4 = battery2_old.cell_4 * K + battery2_new.cell_4 * (1 - K);
+    battery_1.cell_1 = battery_1.cell_1 * K + battery1_new.cell_1 * (1 - K);
+    battery_1.cell_2 = battery_1.cell_2 * K + battery1_new.cell_2 * (1 - K);
+    battery_1.cell_3 = battery_1.cell_3 * K + battery1_new.cell_3 * (1 - K);
+    battery_1.cell_4 = battery_1.cell_4 * K + battery1_new.cell_4 * (1 - K);
+    battery_2.cell_1 = battery_2.cell_1 * K + battery2_new.cell_1 * (1 - K);
+    battery_2.cell_2 = battery_2.cell_2 * K + battery2_new.cell_2 * (1 - K);
+    battery_2.cell_3 = battery_2.cell_3 * K + battery2_new.cell_3 * (1 - K);
+    battery_2.cell_4 = battery_2.cell_4 * K + battery2_new.cell_4 * (1 - K);
 }
 
 /********************** Interrupts **************************/
 
 void __ISR(_ADC_VECTOR, IPL5AUTO) ADCInterruptHandler(void) {
     readADC1BUFx();
-    battery1_new.cell_1 = (ADC1.BUF3 * VFS) / (MAX_BUF * 0.7124390244);
-    battery1_new.cell_2 = (ADC1.BUF2 * VFS) / (MAX_BUF * 0.3530487805) - battery1_new.cell_1;
-    battery1_new.cell_3 = (ADC1.BUF1 * VFS) / (MAX_BUF * 0.228699187) - battery1_new.cell_1 - battery1_new.cell_2;
-    battery1_new.cell_4 = (ADC1.BUF0 * VFS) / (MAX_BUF * 0.1746186699) - battery1_new.cell_1 - battery1_new.cell_2 - battery1_new.cell_3;
     
-    battery2_new.cell_1 = (ADC1.BUF9 * VFS) / (MAX_BUF * 0.7185365854);
-    battery2_new.cell_2 = (ADC1.BUF8 * VFS) / (MAX_BUF * 0.3507317073) - battery2_new.cell_1;
-    battery2_new.cell_3 = (ADC1.BUF7 * VFS) / (MAX_BUF * 0.228699187) - battery2_new.cell_1 - battery2_new.cell_2;
-    battery2_new.cell_4 = (ADC1.BUF6 * VFS) / (MAX_BUF * 0.1725442343) - battery2_new.cell_1 - battery2_new.cell_2 - battery2_new.cell_3; 
+    balancePort[0] = (ADC1.BUF3 * VFS) / (MAX_BUF * 0.7124390244);
+    balancePort[1] = (ADC1.BUF2 * VFS) / (MAX_BUF * 0.3530487805);
+    balancePort[2] = (ADC1.BUF1 * VFS) / (MAX_BUF * 0.228699187);
+    balancePort[3] = (ADC1.BUF0 * VFS) / (MAX_BUF * 0.1746186699);
+    balancePort[4] = (ADC1.BUF9 * VFS) / (MAX_BUF * 0.1497512438);
+    balancePort[5] = (ADC1.BUF8 * VFS) / (MAX_BUF * 0.1265560166);
+    balancePort[6] = (ADC1.BUF7 * VFS) / (MAX_BUF * 0.1074468085);
+    balancePort[7] = (ADC1.BUF6 * VFS) / (MAX_BUF * 0.09037267081);
     
+    battery1_new.cell_1 = balancePort[0];
+    battery1_new.cell_2 = balancePort[1] - balancePort[0];
+    battery1_new.cell_3 = balancePort[2] - balancePort[1];
+    battery1_new.cell_4 = balancePort[3] - balancePort[2];
+    
+    battery2_new.cell_1 = balancePort[4] - balancePort[3];
+    battery2_new.cell_2 = balancePort[5] - balancePort[4];
+    battery2_new.cell_3 = balancePort[6] - balancePort[5];
+    battery2_new.cell_4 = balancePort[7] - balancePort[6];
+
     current_sensor_1 = ((ADC1.BUF4 * VFS) / (MAX_BUF * 0.644149577) - NO_CURRENT_1) / 0.02;
     current_sensor_2 = ((ADC1.BUF5 * VFS) / (MAX_BUF * 0.6418810289) - NO_CURRENT_2) / 0.02;
     if(current_sensor_1 > -1 && current_sensor_1 < 1) current_sensor_1 = 0;

@@ -18,4 +18,7 @@
 #define BATTERY_ERROR 3
 #define WARM_UP 4
 
+/**************** FILTER VARIABLES ******************/
+#define K 0.9
+
 #endif
